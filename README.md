@@ -1,5 +1,21 @@
-# led_cube_555
+# [DIY] LED CUBE 555
+
 Make LED CUBE 555 for TET holiday in Vietnam
+
+## Features:
+
+46 effects
+
+
+## Video demo
+
+https://www.youtube.com/watch?v=U8hsy-VtGYE
+
+## Hardware:
+
+* MCU: ATmega16
+
+* ICs: 74HC595, ULN2803
 
 ## Environment
 
@@ -24,7 +40,3 @@ Run all [scripts](SourceCode/scripts/) from 0 to 2
 * Ubuntu: Use [scripts](SourceCode/scripts/) from 3 to 4
 
 * Windows 10: Use [progisp](Tools/progisp1.72.zip)
-
-## Video demo
-
-https://www.youtube.com/watch?v=U8hsy-VtGYE
