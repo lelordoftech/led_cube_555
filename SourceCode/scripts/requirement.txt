@@ -1,0 +1,4 @@
+cmake 3.5.1
+gcc-avr
+avr-libc
+avrdude

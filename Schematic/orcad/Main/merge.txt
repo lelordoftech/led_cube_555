@@ -1,0 +1,160 @@
+Starting (copy all comps)
+Loading merge file D:\PROJECTS\VI XU LY\ORCAD\ORCAD\MAIN\555 - COPY.MAX
+Component 55 copied and renamed to 55000
+Component 56 copied and renamed to 56000
+Component 57 copied and renamed to 57000
+Component 58 copied and renamed to 58000
+Component 59 copied and renamed to 59000
+Component 60 copied and renamed to 60000
+Component 61 copied and renamed to 61000
+Component 62 copied and renamed to 62000
+Component 63 copied and renamed to 63000
+Component 64 copied and renamed to 64000
+Component 65 copied and renamed to 65000
+Component 66 copied and renamed to 66000
+Component 67 copied and added
+Component 68 copied and added
+Component 69 copied and added
+Component 70 copied and added
+Component 71 copied and added
+Component 72 copied and added
+Component 73 copied and added
+Component 74 copied and added
+Component 75 copied and added
+Component 76 copied and added
+Component C1 copied and added
+Component C2 copied and added
+Component C7 copied and added
+Component C8 copied and added
+Component C9 copied and added
+Component C10 copied and added
+Component C11 copied and added
+Component J2 copied and renamed to J2000
+Component J3 copied and renamed to J3000
+Component J4 copied and added
+Component J7 copied and added
+Component J8 copied and added
+Component J10 copied and added
+Component KHOI DONG copied and added
+Component NGUON copied and added
+Component PIN copied and added
+Component R1 copied and renamed to R1000
+Component R2 copied and renamed to R2000
+Component R3 copied and added
+Component R4 copied and added
+Component R5 copied and added
+Component R6 copied and added
+Component R7 copied and added
+Component R8 copied and added
+Component R9 copied and added
+Component R10 copied and added
+Component R11 copied and added
+Component R12 copied and added
+Component R13 copied and added
+Component R14 copied and added
+Component R15 copied and added
+Component R16 copied and added
+Component R17 copied and added
+Component R18 copied and added
+Component R19 copied and added
+Component R20 copied and added
+Component R21 copied and added
+Component R22 copied and added
+Component R23 copied and added
+Component R24 copied and added
+Component R25 copied and added
+Component R26 copied and added
+Component R27 copied and added
+Component R28 copied and added
+Component R29 copied and added
+Component R30 copied and added
+Component R31 copied and added
+Component R32 copied and added
+Component RESET copied and added
+Component SW1 copied and added
+Component U1 copied and renamed to U1000
+Component ULN2803 copied and added
+Component Y1 copied and added
+Net +5V copied and added
+Net 0 copied and added
+Net N08816 copied and added
+Net N08853 copied and added
+Net N08890 copied and added
+Net N09603 copied and added
+Net N09642 copied and added
+Net N09681 copied and added
+Net N09720 copied and added
+Net N15988 copied and added
+Net N16039 copied and added
+Net N19848 copied and added
+Net N19957 copied and added
+Net N21663 copied and added
+Net N21805 copied and added
+Net N21996 copied and added
+Net N22089 copied and added
+Net N22231 copied and added
+Net N25690 copied and added
+Net N26620 copied and added
+Net N26988 copied and added
+Net N28421 copied and added
+Net N29314 copied and added
+Net N29793 copied and added
+Net N32064 copied and added
+Net N32117 copied and added
+Net N32170 copied and added
+Net N32223 copied and added
+Net N32276 copied and added
+Net N32329 copied and added
+Net N33705 copied and added
+Net N33758 copied and added
+Net N33811 copied and added
+Net N33864 copied and added
+Net N33970 copied and added
+Net N34023 copied and added
+Net N34076 copied and added
+Net N43240 copied and added
+Net N55367 copied and added
+Net N61263 copied and added
+Net N61316 copied and added
+Net N62232 copied and added
+Net N63189 copied and added
+Net N70247 copied and added
+Net N70418 copied and added
+Net N70788 copied and added
+Net N75563 copied and added
+Net N75638 copied and added
+Net N75713 copied and added
+Net N75788 copied and added
+Net N75863 copied and added
+Net N75938 copied and added
+Net N76013 copied and added
+Net N79493 copied and added
+Net N93573 copied and added
+Net N93650 copied and added
+Net N93727 copied and added
+Net N93804 copied and added
+Net N93881 copied and added
+Net N93993 copied and added
+Net N94301 copied and added
+Net N100161 copied and added
+Net N100175 copied and added
+Net N100189 copied and added
+Net N100203 copied and added
+Net N100504 copied and added
+Net N100601 copied and added
+Net N100709 copied and added
+Net N100764 copied and added
+Net N100819 copied and added
+Net N100874 copied and added
+Net N100929 copied and added
+Net N100984 copied and added
+Net N115689 copied and added
+Net N128535 copied and added
+Net N1029410 copied and added
+Net N134876 copied and added
+Net N134880 copied and added
+Net N134884 copied and added
+Net N134888 copied and added
+Net N134892 copied and added
+Net N173409 copied and added
+Complete

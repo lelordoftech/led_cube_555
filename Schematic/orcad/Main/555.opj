@@ -1,0 +1,167 @@
+(ExpressProject "555"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\555.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "TRUE")
+    (DRC_Check_Ports "FALSE")
+    (DRC_Check_Off-Page_Connectors "FALSE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_View_Output "FALSE")
+    (DRC_Report_File "D:\PROJECTS\LED CUBE\ORCAD\ORCAD\555.DRC")
+    (Netlist_TAB "5")
+    (LAYOUT_Netlist_File "555.mnl")
+    (LAYOUT_PCB_Footprint "{PCB Footprint}")
+    (FALSE)
+    (LAYOUT_Units "0")
+    (TRUE)
+    (TRUE)
+    (TRUE)
+    (TRUE)
+    (TRUE)
+    (TRUE)
+    (TRUE)
+    (TRUE)
+    (TRUE)
+    (TRUE))
+  (Folder "Outputs"
+    (File ".\555.drc"
+      (Type "Report"))
+    (File ".\555.mnl"
+      (Type "LAYOUT Netlist File"))
+    (File "..\555.drc"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (VCC_ARROW
+      (LibraryName "E:\DATA\PROGRAMFILES\ORCAD\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (DIPSOC-20x2
+      (FullPartName "DIPSOC-20x2.Normal")
+      (LibraryName "E:\DATA\PROGRAMFILES\ORCAD\CAPTURE\LIBRARY\MECHANICAL.OLB")
+      (DeviceIndex "0"))
+    ($D_HI
+      (LibraryName
+         "E:\DATA\PROGRAMFILES\ORCAD\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 3X2"
+      (FullPartName "HEADER 3X2.Normal")
+      (LibraryName "E:\DATA\PROGRAMFILES\ORCAD\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 11"
+      (FullPartName "HEADER 11.Normal")
+      (LibraryName "E:\DATA\PROGRAMFILES\ORCAD\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 27"
+      (FullPartName "HEADER 27.Normal")
+      (LibraryName "E:\DATA\PROGRAMFILES\ORCAD\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (JUMPER
+      (FullPartName "JUMPER.Normal")
+      (LibraryName "E:\DATA\PROGRAMFILES\ORCAD\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (CON10
+      (FullPartName "CON10.Normal")
+      (LibraryName "E:\DATA\PROGRAMFILES\ORCAD\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (0
+      (LibraryName
+         "E:\DATA\PROGRAMFILES\ORCAD\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB")
+      (DeviceIndex "0"))
+    (CON3
+      (FullPartName "CON3.Normal")
+      (LibraryName "E:\DATA\PROGRAMFILES\ORCAD\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName "E:\DATA\PROGRAMFILES\ORCAD\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (CON2
+      (FullPartName "CON2.Normal")
+      (LibraryName "E:\DATA\PROGRAMFILES\ORCAD\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (LM7805C/TO220
+      (FullPartName "LM7805C/TO220.Normal")
+      (LibraryName "E:\DATA\PROGRAMFILES\ORCAD\CAPTURE\LIBRARY\REGULATOR.OLB")
+      (DeviceIndex "0"))
+    (CON9
+      (FullPartName "CON9.Normal")
+      (LibraryName "E:\DATA\PROGRAMFILES\ORCAD\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (CON8
+      (FullPartName "CON8.Normal")
+      (LibraryName "E:\DATA\PROGRAMFILES\ORCAD\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (CON6
+      (FullPartName "CON6.Normal")
+      (LibraryName "E:\DATA\PROGRAMFILES\ORCAD\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (CON5
+      (FullPartName "CON5.Normal")
+      (LibraryName "E:\DATA\PROGRAMFILES\ORCAD\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (CRYSTAL
+      (FullPartName "CRYSTAL.Normal")
+      (LibraryName "E:\DATA\PROGRAMFILES\ORCAD\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("SW DIP-2/SM"
+      (FullPartName "SW DIP-2/SM.Normal")
+      (LibraryName "E:\DATA\PROGRAMFILES\ORCAD\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (LED
+      (FullPartName "LED.Normal")
+      (LibraryName "E:\DATA\PROGRAMFILES\ORCAD\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("CAP NP"
+      (FullPartName "CAP NP.Normal")
+      (LibraryName "E:\DATA\PROGRAMFILES\ORCAD\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (C
+      (FullPartName "C.Normal")
+      (LibraryName "E:\DATA\PROGRAMFILES\ORCAD\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (DIPSOC-9x2
+      (FullPartName "DIPSOC-9x2.Normal")
+      (LibraryName "E:\DATA\PROGRAMFILES\ORCAD\CAPTURE\LIBRARY\MECHANICAL.OLB")
+      (DeviceIndex "0"))
+    (DIPSOC-8x2
+      (FullPartName "DIPSOC-8x2.Normal")
+      (LibraryName "E:\DATA\PROGRAMFILES\ORCAD\CAPTURE\LIBRARY\MECHANICAL.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\555.dsn")
+      (Path "Design Resources" ".\555.dsn" "SCHEMATIC1")
+      (Path "Outputs")
+      (Select "Design Resources" ".\555.dsn" "SCHEMATIC1" "NguyenLy"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 0 604 -8 -30 0 200 0 381"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 50 1212 50 479")
+        (Scroll "0 44")
+        (Zoom "91")
+        (Occurrence "/"))
+      (Path "D:\PROJECTS\VI XU LY\AVR\LED CUBE\5X5X5\MACH ORCAD\MAIN\555.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "NguyenLy")))
+  (LastUsedLibraryBrowseDirectory "E:\DATA\ProgramFiles\ORCAD\Capture\Library"))

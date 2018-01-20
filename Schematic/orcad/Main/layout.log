@@ -1,0 +1,1541 @@
+Thu Jan 02 20:15:26 Saved as file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Thu Jan 02 20:16:01 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\LED\LED555.MAX
+Thu Jan 02 20:46:22 Saved as file BACKUP1.MAX
+Thu Jan 02 20:46:22 Saved as file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Thu Jan 02 20:46:22 UserDiv from Layout.INI for AutoECO: 60
+Thu Jan 02 20:46:22 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Thu Jan 02 20:46:22 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\LAYOUT LIBRARY 01.LLB
+Thu Jan 02 20:46:22 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\LAYOUT LIBRARY 02.LLB
+Thu Jan 02 20:46:22 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\LAYOUT LIBRARY 03.LLB
+Thu Jan 02 20:46:22 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\LAYOUT LIBRARY 04.LLB
+Thu Jan 02 20:46:22 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\LAYOUT LIBRARY 05.LLB
+Thu Jan 02 20:46:22 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\T2H.LLB
+Thu Jan 02 20:46:22 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\TRANSISTOR.LLB
+Thu Jan 02 20:46:22 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\TUHOA.LLB
+Thu Jan 02 20:46:22 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\PIF.LLB
+Thu Jan 02 20:46:22 Loaded file e:\data\programfiles\ORCAD\Layout\library\BCON100T.llb
+Thu Jan 02 20:46:22 Loaded file e:\data\programfiles\ORCAD\Layout\library\BCON156T.llb
+Thu Jan 02 20:46:22 Loaded file e:\data\programfiles\ORCAD\Layout\library\BGA.llb
+Thu Jan 02 20:46:22 Loaded file e:\data\programfiles\ORCAD\Layout\library\CLCC.llb
+Thu Jan 02 20:46:22 Loaded file e:\data\programfiles\ORCAD\Layout\library\DCON050T.llb
+Thu Jan 02 20:46:22 Loaded file e:\data\programfiles\ORCAD\Layout\library\DCON085T.llb
+Thu Jan 02 20:46:22 Loaded file e:\data\programfiles\ORCAD\Layout\library\DIMM050F.llb
+Thu Jan 02 20:46:22 Loaded file e:\data\programfiles\ORCAD\Layout\library\DIMM050T.llb
+Thu Jan 02 20:46:22 Loaded file e:\data\programfiles\ORCAD\Layout\library\DIN.llb
+Thu Jan 02 20:46:22 Loaded file e:\data\programfiles\ORCAD\Layout\library\DIP100B.llb
+Thu Jan 02 20:46:22 Loaded file e:\data\programfiles\ORCAD\Layout\library\DIP100T.llb
+Thu Jan 02 20:46:22 Loaded file e:\data\programfiles\ORCAD\Layout\library\DSUBT.llb
+Thu Jan 02 20:46:22 Loaded file e:\data\programfiles\ORCAD\Layout\library\DSUBT_HD.LLB
+Thu Jan 02 20:46:22 Loaded file e:\data\programfiles\ORCAD\Layout\library\ECON100T.llb
+Thu Jan 02 20:46:22 Loaded file e:\data\programfiles\ORCAD\Layout\library\FBUS.llb
+Thu Jan 02 20:46:22 Loaded file e:\data\programfiles\ORCAD\Layout\library\ISA.llb
+Thu Jan 02 20:46:22 Loaded file e:\data\programfiles\ORCAD\Layout\library\JUMPER.LLB
+Thu Jan 02 20:46:22 Loaded file e:\data\programfiles\ORCAD\Layout\library\LAYOUT.llb
+Thu Jan 02 20:46:22 Loaded file e:\data\programfiles\ORCAD\Layout\library\LCON100T.llb
+Thu Jan 02 20:46:22 Loaded file e:\data\programfiles\ORCAD\Layout\library\PC104.llb
+Thu Jan 02 20:46:22 Loaded file e:\data\programfiles\ORCAD\Layout\library\PCI.llb
+Thu Jan 02 20:46:22 Loaded file e:\data\programfiles\ORCAD\Layout\library\PCON100T.llb
+Thu Jan 02 20:46:22 Loaded file e:\data\programfiles\ORCAD\Layout\library\PCON156T.llb
+Thu Jan 02 20:46:22 Loaded file e:\data\programfiles\ORCAD\Layout\library\PGA.llb
+Thu Jan 02 20:46:22 Loaded file e:\data\programfiles\ORCAD\Layout\library\PLCC.llb
+Thu Jan 02 20:46:22 Loaded file e:\data\programfiles\ORCAD\Layout\library\QUAD.llb
+Thu Jan 02 20:46:22 Loaded file e:\data\programfiles\ORCAD\Layout\library\QUADB.llb
+Thu Jan 02 20:46:22 Loaded file e:\data\programfiles\ORCAD\Layout\library\RELAY.llb
+Thu Jan 02 20:46:22 Loaded file e:\data\programfiles\ORCAD\Layout\library\RF.llb
+Thu Jan 02 20:46:22 Loaded file e:\data\programfiles\ORCAD\Layout\library\SBUS.llb
+Thu Jan 02 20:46:22 Loaded file e:\data\programfiles\ORCAD\Layout\library\SIMM050F.llb
+Thu Jan 02 20:46:22 Loaded file e:\data\programfiles\ORCAD\Layout\library\SIMM050T.llb
+Thu Jan 02 20:46:22 Loaded file e:\data\programfiles\ORCAD\Layout\library\SIMM100F.llb
+Thu Jan 02 20:46:22 Loaded file e:\data\programfiles\ORCAD\Layout\library\SIMM100T.llb
+Thu Jan 02 20:46:22 Loaded file e:\data\programfiles\ORCAD\Layout\library\SIP.llb
+Thu Jan 02 20:46:22 Loaded file e:\data\programfiles\ORCAD\Layout\library\SM.llb
+Thu Jan 02 20:46:22 Loaded file e:\data\programfiles\ORCAD\Layout\library\SOG.llb
+Thu Jan 02 20:46:22 Loaded file e:\data\programfiles\ORCAD\Layout\library\SOJ.llb
+Thu Jan 02 20:46:22 Loaded file e:\data\programfiles\ORCAD\Layout\library\STIFF.llb
+Thu Jan 02 20:46:22 Loaded file e:\data\programfiles\ORCAD\Layout\library\TELE.llb
+Thu Jan 02 20:46:22 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_AXIAL.llb
+Thu Jan 02 20:46:22 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_CAP_P.llb
+Thu Jan 02 20:46:22 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_CYLND.llb
+Thu Jan 02 20:46:22 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_DIODE.llb
+Thu Jan 02 20:46:22 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_DISC.llb
+Thu Jan 02 20:46:22 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_RAD.llb
+Thu Jan 02 20:46:22 Loaded file e:\data\programfiles\ORCAD\Layout\library\TO.llb
+Thu Jan 02 20:46:22 Loaded file e:\data\programfiles\ORCAD\Layout\library\TRAINING.LLB
+Thu Jan 02 20:46:22 Loaded file e:\data\programfiles\ORCAD\Layout\library\VRES.llb
+Thu Jan 02 20:46:22 Loaded file e:\data\programfiles\ORCAD\Layout\library\WCON100T.llb
+Thu Jan 02 20:46:22 Loaded file e:\data\programfiles\ORCAD\Layout\library\XT.llb
+Thu Jan 02 20:46:22 Loaded file e:\data\programfiles\ORCAD\Layout\library\ZIGZAG.llb
+Thu Jan 02 20:46:22 Saved as file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Thu Jan 02 20:46:27 Saved as file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Thu Jan 02 20:46:27 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Thu Jan 02 20:46:28 Saved as file BACKUP1.MAX
+Thu Jan 02 20:46:28 Saved as file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Thu Jan 02 20:46:28 UserDiv from Layout.INI for AutoECO: 60
+Thu Jan 02 20:46:28 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Thu Jan 02 20:46:28 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\LAYOUT LIBRARY 01.LLB
+Thu Jan 02 20:46:28 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\LAYOUT LIBRARY 02.LLB
+Thu Jan 02 20:46:28 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\LAYOUT LIBRARY 03.LLB
+Thu Jan 02 20:46:28 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\LAYOUT LIBRARY 04.LLB
+Thu Jan 02 20:46:28 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\LAYOUT LIBRARY 05.LLB
+Thu Jan 02 20:46:28 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\T2H.LLB
+Thu Jan 02 20:46:28 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\TRANSISTOR.LLB
+Thu Jan 02 20:46:28 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\TUHOA.LLB
+Thu Jan 02 20:46:28 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\PIF.LLB
+Thu Jan 02 20:46:28 Loaded file e:\data\programfiles\ORCAD\Layout\library\BCON100T.llb
+Thu Jan 02 20:46:28 Loaded file e:\data\programfiles\ORCAD\Layout\library\BCON156T.llb
+Thu Jan 02 20:46:28 Loaded file e:\data\programfiles\ORCAD\Layout\library\BGA.llb
+Thu Jan 02 20:46:28 Loaded file e:\data\programfiles\ORCAD\Layout\library\CLCC.llb
+Thu Jan 02 20:46:28 Loaded file e:\data\programfiles\ORCAD\Layout\library\DCON050T.llb
+Thu Jan 02 20:46:28 Loaded file e:\data\programfiles\ORCAD\Layout\library\DCON085T.llb
+Thu Jan 02 20:46:28 Loaded file e:\data\programfiles\ORCAD\Layout\library\DIMM050F.llb
+Thu Jan 02 20:46:28 Loaded file e:\data\programfiles\ORCAD\Layout\library\DIMM050T.llb
+Thu Jan 02 20:46:28 Loaded file e:\data\programfiles\ORCAD\Layout\library\DIN.llb
+Thu Jan 02 20:46:28 Loaded file e:\data\programfiles\ORCAD\Layout\library\DIP100B.llb
+Thu Jan 02 20:46:28 Loaded file e:\data\programfiles\ORCAD\Layout\library\DIP100T.llb
+Thu Jan 02 20:46:28 Loaded file e:\data\programfiles\ORCAD\Layout\library\DSUBT.llb
+Thu Jan 02 20:46:28 Loaded file e:\data\programfiles\ORCAD\Layout\library\DSUBT_HD.LLB
+Thu Jan 02 20:46:28 Loaded file e:\data\programfiles\ORCAD\Layout\library\ECON100T.llb
+Thu Jan 02 20:46:28 Loaded file e:\data\programfiles\ORCAD\Layout\library\FBUS.llb
+Thu Jan 02 20:46:28 Loaded file e:\data\programfiles\ORCAD\Layout\library\ISA.llb
+Thu Jan 02 20:46:28 Loaded file e:\data\programfiles\ORCAD\Layout\library\JUMPER.LLB
+Thu Jan 02 20:46:28 Loaded file e:\data\programfiles\ORCAD\Layout\library\LAYOUT.llb
+Thu Jan 02 20:46:28 Loaded file e:\data\programfiles\ORCAD\Layout\library\LCON100T.llb
+Thu Jan 02 20:46:28 Loaded file e:\data\programfiles\ORCAD\Layout\library\PC104.llb
+Thu Jan 02 20:46:28 Loaded file e:\data\programfiles\ORCAD\Layout\library\PCI.llb
+Thu Jan 02 20:46:28 Loaded file e:\data\programfiles\ORCAD\Layout\library\PCON100T.llb
+Thu Jan 02 20:46:28 Loaded file e:\data\programfiles\ORCAD\Layout\library\PCON156T.llb
+Thu Jan 02 20:46:28 Loaded file e:\data\programfiles\ORCAD\Layout\library\PGA.llb
+Thu Jan 02 20:46:28 Loaded file e:\data\programfiles\ORCAD\Layout\library\PLCC.llb
+Thu Jan 02 20:46:28 Loaded file e:\data\programfiles\ORCAD\Layout\library\QUAD.llb
+Thu Jan 02 20:46:28 Loaded file e:\data\programfiles\ORCAD\Layout\library\QUADB.llb
+Thu Jan 02 20:46:28 Loaded file e:\data\programfiles\ORCAD\Layout\library\RELAY.llb
+Thu Jan 02 20:46:28 Loaded file e:\data\programfiles\ORCAD\Layout\library\RF.llb
+Thu Jan 02 20:46:28 Loaded file e:\data\programfiles\ORCAD\Layout\library\SBUS.llb
+Thu Jan 02 20:46:28 Loaded file e:\data\programfiles\ORCAD\Layout\library\SIMM050F.llb
+Thu Jan 02 20:46:28 Loaded file e:\data\programfiles\ORCAD\Layout\library\SIMM050T.llb
+Thu Jan 02 20:46:28 Loaded file e:\data\programfiles\ORCAD\Layout\library\SIMM100F.llb
+Thu Jan 02 20:46:28 Loaded file e:\data\programfiles\ORCAD\Layout\library\SIMM100T.llb
+Thu Jan 02 20:46:28 Loaded file e:\data\programfiles\ORCAD\Layout\library\SIP.llb
+Thu Jan 02 20:46:28 Loaded file e:\data\programfiles\ORCAD\Layout\library\SM.llb
+Thu Jan 02 20:46:28 Loaded file e:\data\programfiles\ORCAD\Layout\library\SOG.llb
+Thu Jan 02 20:46:28 Loaded file e:\data\programfiles\ORCAD\Layout\library\SOJ.llb
+Thu Jan 02 20:46:28 Loaded file e:\data\programfiles\ORCAD\Layout\library\STIFF.llb
+Thu Jan 02 20:46:28 Loaded file e:\data\programfiles\ORCAD\Layout\library\TELE.llb
+Thu Jan 02 20:46:28 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_AXIAL.llb
+Thu Jan 02 20:46:28 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_CAP_P.llb
+Thu Jan 02 20:46:28 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_CYLND.llb
+Thu Jan 02 20:46:28 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_DIODE.llb
+Thu Jan 02 20:46:28 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_DISC.llb
+Thu Jan 02 20:46:28 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_RAD.llb
+Thu Jan 02 20:46:28 Loaded file e:\data\programfiles\ORCAD\Layout\library\TO.llb
+Thu Jan 02 20:46:28 Loaded file e:\data\programfiles\ORCAD\Layout\library\TRAINING.LLB
+Thu Jan 02 20:46:28 Loaded file e:\data\programfiles\ORCAD\Layout\library\VRES.llb
+Thu Jan 02 20:46:28 Loaded file e:\data\programfiles\ORCAD\Layout\library\WCON100T.llb
+Thu Jan 02 20:46:28 Loaded file e:\data\programfiles\ORCAD\Layout\library\XT.llb
+Thu Jan 02 20:46:28 Loaded file e:\data\programfiles\ORCAD\Layout\library\ZIGZAG.llb
+Thu Jan 02 20:46:28 Saved as file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Thu Jan 02 20:57:29 Saved as file BACKUP1.MAX
+Thu Jan 02 21:07:59 Saved as file BACKUP1.MAX
+Thu Jan 02 21:10:09 Saved as file BACKUP1.MAX
+Thu Jan 02 21:10:09 Saved as file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Thu Jan 02 21:10:09 UserDiv from Layout.INI for AutoECO: 60
+Thu Jan 02 21:10:09 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Thu Jan 02 21:10:09 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\LAYOUT LIBRARY 01.LLB
+Thu Jan 02 21:10:09 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\LAYOUT LIBRARY 02.LLB
+Thu Jan 02 21:10:09 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\LAYOUT LIBRARY 03.LLB
+Thu Jan 02 21:10:09 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\LAYOUT LIBRARY 04.LLB
+Thu Jan 02 21:10:09 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\LAYOUT LIBRARY 05.LLB
+Thu Jan 02 21:10:09 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\T2H.LLB
+Thu Jan 02 21:10:09 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\TRANSISTOR.LLB
+Thu Jan 02 21:10:09 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\TUHOA.LLB
+Thu Jan 02 21:10:09 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\PIF.LLB
+Thu Jan 02 21:10:09 Loaded file e:\data\programfiles\ORCAD\Layout\library\BCON100T.llb
+Thu Jan 02 21:10:09 Loaded file e:\data\programfiles\ORCAD\Layout\library\BCON156T.llb
+Thu Jan 02 21:10:09 Loaded file e:\data\programfiles\ORCAD\Layout\library\BGA.llb
+Thu Jan 02 21:10:09 Loaded file e:\data\programfiles\ORCAD\Layout\library\CLCC.llb
+Thu Jan 02 21:10:09 Loaded file e:\data\programfiles\ORCAD\Layout\library\DCON050T.llb
+Thu Jan 02 21:10:09 Loaded file e:\data\programfiles\ORCAD\Layout\library\DCON085T.llb
+Thu Jan 02 21:10:09 Loaded file e:\data\programfiles\ORCAD\Layout\library\DIMM050F.llb
+Thu Jan 02 21:10:09 Loaded file e:\data\programfiles\ORCAD\Layout\library\DIMM050T.llb
+Thu Jan 02 21:10:09 Loaded file e:\data\programfiles\ORCAD\Layout\library\DIN.llb
+Thu Jan 02 21:10:09 Loaded file e:\data\programfiles\ORCAD\Layout\library\DIP100B.llb
+Thu Jan 02 21:10:09 Loaded file e:\data\programfiles\ORCAD\Layout\library\DIP100T.llb
+Thu Jan 02 21:10:09 Loaded file e:\data\programfiles\ORCAD\Layout\library\DSUBT.llb
+Thu Jan 02 21:10:09 Loaded file e:\data\programfiles\ORCAD\Layout\library\DSUBT_HD.LLB
+Thu Jan 02 21:10:09 Loaded file e:\data\programfiles\ORCAD\Layout\library\ECON100T.llb
+Thu Jan 02 21:10:09 Loaded file e:\data\programfiles\ORCAD\Layout\library\FBUS.llb
+Thu Jan 02 21:10:09 Loaded file e:\data\programfiles\ORCAD\Layout\library\ISA.llb
+Thu Jan 02 21:10:09 Loaded file e:\data\programfiles\ORCAD\Layout\library\JUMPER.LLB
+Thu Jan 02 21:10:09 Loaded file e:\data\programfiles\ORCAD\Layout\library\LAYOUT.llb
+Thu Jan 02 21:10:09 Loaded file e:\data\programfiles\ORCAD\Layout\library\LCON100T.llb
+Thu Jan 02 21:10:09 Loaded file e:\data\programfiles\ORCAD\Layout\library\PC104.llb
+Thu Jan 02 21:10:09 Loaded file e:\data\programfiles\ORCAD\Layout\library\PCI.llb
+Thu Jan 02 21:10:09 Loaded file e:\data\programfiles\ORCAD\Layout\library\PCON100T.llb
+Thu Jan 02 21:10:09 Loaded file e:\data\programfiles\ORCAD\Layout\library\PCON156T.llb
+Thu Jan 02 21:10:09 Loaded file e:\data\programfiles\ORCAD\Layout\library\PGA.llb
+Thu Jan 02 21:10:09 Loaded file e:\data\programfiles\ORCAD\Layout\library\PLCC.llb
+Thu Jan 02 21:10:09 Loaded file e:\data\programfiles\ORCAD\Layout\library\QUAD.llb
+Thu Jan 02 21:10:09 Loaded file e:\data\programfiles\ORCAD\Layout\library\QUADB.llb
+Thu Jan 02 21:10:09 Loaded file e:\data\programfiles\ORCAD\Layout\library\RELAY.llb
+Thu Jan 02 21:10:09 Loaded file e:\data\programfiles\ORCAD\Layout\library\RF.llb
+Thu Jan 02 21:10:09 Loaded file e:\data\programfiles\ORCAD\Layout\library\SBUS.llb
+Thu Jan 02 21:10:09 Loaded file e:\data\programfiles\ORCAD\Layout\library\SIMM050F.llb
+Thu Jan 02 21:10:09 Loaded file e:\data\programfiles\ORCAD\Layout\library\SIMM050T.llb
+Thu Jan 02 21:10:09 Loaded file e:\data\programfiles\ORCAD\Layout\library\SIMM100F.llb
+Thu Jan 02 21:10:09 Loaded file e:\data\programfiles\ORCAD\Layout\library\SIMM100T.llb
+Thu Jan 02 21:10:09 Loaded file e:\data\programfiles\ORCAD\Layout\library\SIP.llb
+Thu Jan 02 21:10:09 Loaded file e:\data\programfiles\ORCAD\Layout\library\SM.llb
+Thu Jan 02 21:10:09 Loaded file e:\data\programfiles\ORCAD\Layout\library\SOG.llb
+Thu Jan 02 21:10:09 Loaded file e:\data\programfiles\ORCAD\Layout\library\SOJ.llb
+Thu Jan 02 21:10:09 Loaded file e:\data\programfiles\ORCAD\Layout\library\STIFF.llb
+Thu Jan 02 21:10:09 Loaded file e:\data\programfiles\ORCAD\Layout\library\TELE.llb
+Thu Jan 02 21:10:09 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_AXIAL.llb
+Thu Jan 02 21:10:09 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_CAP_P.llb
+Thu Jan 02 21:10:09 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_CYLND.llb
+Thu Jan 02 21:10:09 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_DIODE.llb
+Thu Jan 02 21:10:09 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_DISC.llb
+Thu Jan 02 21:10:09 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_RAD.llb
+Thu Jan 02 21:10:09 Loaded file e:\data\programfiles\ORCAD\Layout\library\TO.llb
+Thu Jan 02 21:10:09 Loaded file e:\data\programfiles\ORCAD\Layout\library\TRAINING.LLB
+Thu Jan 02 21:10:09 Loaded file e:\data\programfiles\ORCAD\Layout\library\VRES.llb
+Thu Jan 02 21:10:09 Loaded file e:\data\programfiles\ORCAD\Layout\library\WCON100T.llb
+Thu Jan 02 21:10:09 Loaded file e:\data\programfiles\ORCAD\Layout\library\XT.llb
+Thu Jan 02 21:10:09 Loaded file e:\data\programfiles\ORCAD\Layout\library\ZIGZAG.llb
+Thu Jan 02 21:10:09 Saved as file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Thu Jan 02 21:10:09 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Thu Jan 02 21:10:16 Saved as file ~undo.max
+Thu Jan 02 21:13:36 Saved as file ~undo.max
+Thu Jan 02 21:18:29 Saved as file BACKUP1.MAX
+Thu Jan 02 21:28:59 Saved as file BACKUP1.MAX
+Thu Jan 02 21:30:53 Saved as file BACKUP1.MAX
+Thu Jan 02 21:30:53 Saved as file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Thu Jan 02 21:30:53 UserDiv from Layout.INI for AutoECO: 60
+Thu Jan 02 21:30:53 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Thu Jan 02 21:30:53 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\LAYOUT LIBRARY 01.LLB
+Thu Jan 02 21:30:53 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\LAYOUT LIBRARY 02.LLB
+Thu Jan 02 21:30:53 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\LAYOUT LIBRARY 03.LLB
+Thu Jan 02 21:30:53 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\LAYOUT LIBRARY 04.LLB
+Thu Jan 02 21:30:53 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\LAYOUT LIBRARY 05.LLB
+Thu Jan 02 21:30:53 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\T2H.LLB
+Thu Jan 02 21:30:53 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\TRANSISTOR.LLB
+Thu Jan 02 21:30:53 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\TUHOA.LLB
+Thu Jan 02 21:30:53 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\PIF.LLB
+Thu Jan 02 21:30:53 Loaded file e:\data\programfiles\ORCAD\Layout\library\BCON100T.llb
+Thu Jan 02 21:30:53 Loaded file e:\data\programfiles\ORCAD\Layout\library\BCON156T.llb
+Thu Jan 02 21:30:53 Loaded file e:\data\programfiles\ORCAD\Layout\library\BGA.llb
+Thu Jan 02 21:30:53 Loaded file e:\data\programfiles\ORCAD\Layout\library\CLCC.llb
+Thu Jan 02 21:30:53 Loaded file e:\data\programfiles\ORCAD\Layout\library\DCON050T.llb
+Thu Jan 02 21:30:53 Loaded file e:\data\programfiles\ORCAD\Layout\library\DCON085T.llb
+Thu Jan 02 21:30:53 Loaded file e:\data\programfiles\ORCAD\Layout\library\DIMM050F.llb
+Thu Jan 02 21:30:53 Loaded file e:\data\programfiles\ORCAD\Layout\library\DIMM050T.llb
+Thu Jan 02 21:30:53 Loaded file e:\data\programfiles\ORCAD\Layout\library\DIN.llb
+Thu Jan 02 21:30:53 Loaded file e:\data\programfiles\ORCAD\Layout\library\DIP100B.llb
+Thu Jan 02 21:30:53 Loaded file e:\data\programfiles\ORCAD\Layout\library\DIP100T.llb
+Thu Jan 02 21:30:53 Loaded file e:\data\programfiles\ORCAD\Layout\library\DSUBT.llb
+Thu Jan 02 21:30:53 Loaded file e:\data\programfiles\ORCAD\Layout\library\DSUBT_HD.LLB
+Thu Jan 02 21:30:53 Loaded file e:\data\programfiles\ORCAD\Layout\library\ECON100T.llb
+Thu Jan 02 21:30:53 Loaded file e:\data\programfiles\ORCAD\Layout\library\FBUS.llb
+Thu Jan 02 21:30:53 Loaded file e:\data\programfiles\ORCAD\Layout\library\ISA.llb
+Thu Jan 02 21:30:53 Loaded file e:\data\programfiles\ORCAD\Layout\library\JUMPER.LLB
+Thu Jan 02 21:30:53 Loaded file e:\data\programfiles\ORCAD\Layout\library\LAYOUT.llb
+Thu Jan 02 21:30:53 Loaded file e:\data\programfiles\ORCAD\Layout\library\LCON100T.llb
+Thu Jan 02 21:30:53 Loaded file e:\data\programfiles\ORCAD\Layout\library\PC104.llb
+Thu Jan 02 21:30:53 Loaded file e:\data\programfiles\ORCAD\Layout\library\PCI.llb
+Thu Jan 02 21:30:53 Loaded file e:\data\programfiles\ORCAD\Layout\library\PCON100T.llb
+Thu Jan 02 21:30:53 Loaded file e:\data\programfiles\ORCAD\Layout\library\PCON156T.llb
+Thu Jan 02 21:30:53 Loaded file e:\data\programfiles\ORCAD\Layout\library\PGA.llb
+Thu Jan 02 21:30:53 Loaded file e:\data\programfiles\ORCAD\Layout\library\PLCC.llb
+Thu Jan 02 21:30:53 Loaded file e:\data\programfiles\ORCAD\Layout\library\QUAD.llb
+Thu Jan 02 21:30:53 Loaded file e:\data\programfiles\ORCAD\Layout\library\QUADB.llb
+Thu Jan 02 21:30:53 Loaded file e:\data\programfiles\ORCAD\Layout\library\RELAY.llb
+Thu Jan 02 21:30:53 Loaded file e:\data\programfiles\ORCAD\Layout\library\RF.llb
+Thu Jan 02 21:30:53 Loaded file e:\data\programfiles\ORCAD\Layout\library\SBUS.llb
+Thu Jan 02 21:30:53 Loaded file e:\data\programfiles\ORCAD\Layout\library\SIMM050F.llb
+Thu Jan 02 21:30:53 Loaded file e:\data\programfiles\ORCAD\Layout\library\SIMM050T.llb
+Thu Jan 02 21:30:53 Loaded file e:\data\programfiles\ORCAD\Layout\library\SIMM100F.llb
+Thu Jan 02 21:30:53 Loaded file e:\data\programfiles\ORCAD\Layout\library\SIMM100T.llb
+Thu Jan 02 21:30:53 Loaded file e:\data\programfiles\ORCAD\Layout\library\SIP.llb
+Thu Jan 02 21:30:53 Loaded file e:\data\programfiles\ORCAD\Layout\library\SM.llb
+Thu Jan 02 21:30:53 Loaded file e:\data\programfiles\ORCAD\Layout\library\SOG.llb
+Thu Jan 02 21:30:53 Loaded file e:\data\programfiles\ORCAD\Layout\library\SOJ.llb
+Thu Jan 02 21:30:53 Loaded file e:\data\programfiles\ORCAD\Layout\library\STIFF.llb
+Thu Jan 02 21:30:53 Loaded file e:\data\programfiles\ORCAD\Layout\library\TELE.llb
+Thu Jan 02 21:30:53 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_AXIAL.llb
+Thu Jan 02 21:30:53 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_CAP_P.llb
+Thu Jan 02 21:30:53 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_CYLND.llb
+Thu Jan 02 21:30:53 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_DIODE.llb
+Thu Jan 02 21:30:53 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_DISC.llb
+Thu Jan 02 21:30:53 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_RAD.llb
+Thu Jan 02 21:30:53 Loaded file e:\data\programfiles\ORCAD\Layout\library\TO.llb
+Thu Jan 02 21:30:53 Loaded file e:\data\programfiles\ORCAD\Layout\library\TRAINING.LLB
+Thu Jan 02 21:30:53 Loaded file e:\data\programfiles\ORCAD\Layout\library\VRES.llb
+Thu Jan 02 21:30:53 Loaded file e:\data\programfiles\ORCAD\Layout\library\WCON100T.llb
+Thu Jan 02 21:30:53 Loaded file e:\data\programfiles\ORCAD\Layout\library\XT.llb
+Thu Jan 02 21:30:53 Loaded file e:\data\programfiles\ORCAD\Layout\library\ZIGZAG.llb
+Thu Jan 02 21:30:53 Saved as file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Thu Jan 02 21:30:53 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Thu Jan 02 21:39:29 Saved as file BACKUP1.MAX
+Thu Jan 02 21:49:59 Saved as file BACKUP1.MAX
+Thu Jan 02 22:00:29 Saved as file BACKUP1.MAX
+Thu Jan 02 22:07:19 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT_PLUS\LIBRARY\BCON100T.LLB
+Thu Jan 02 22:07:19 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT_PLUS\LIBRARY\BCON156T.LLB
+Thu Jan 02 22:07:19 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT_PLUS\LIBRARY\BGA.LLB
+Thu Jan 02 22:07:19 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT_PLUS\LIBRARY\CLCC.LLB
+Thu Jan 02 22:07:19 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT_PLUS\LIBRARY\DCON050T.LLB
+Thu Jan 02 22:07:19 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT_PLUS\LIBRARY\DCON085T.LLB
+Thu Jan 02 22:07:19 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT_PLUS\LIBRARY\DIMM050F.LLB
+Thu Jan 02 22:07:19 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT_PLUS\LIBRARY\DIMM050T.LLB
+Thu Jan 02 22:07:19 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT_PLUS\LIBRARY\DIN.LLB
+Thu Jan 02 22:07:19 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT_PLUS\LIBRARY\DIP100B.LLB
+Thu Jan 02 22:07:19 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT_PLUS\LIBRARY\DIP100T.LLB
+Thu Jan 02 22:07:19 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT_PLUS\LIBRARY\DSUBT.LLB
+Thu Jan 02 22:07:19 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT_PLUS\LIBRARY\DSUBT_HD.LLB
+Thu Jan 02 22:07:19 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT_PLUS\LIBRARY\ECON100T.LLB
+Thu Jan 02 22:07:19 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT_PLUS\LIBRARY\EMPTY.LLB
+Thu Jan 02 22:07:19 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT_PLUS\LIBRARY\EX_GUI.LLB
+Thu Jan 02 22:07:19 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT_PLUS\LIBRARY\FBUS.LLB
+Thu Jan 02 22:07:19 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT_PLUS\LIBRARY\ISA.LLB
+Thu Jan 02 22:07:19 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT_PLUS\LIBRARY\JUMPER.LLB
+Thu Jan 02 22:07:19 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT_PLUS\LIBRARY\LAYOUT.LLB
+Thu Jan 02 22:07:19 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT_PLUS\LIBRARY\LCON100T.LLB
+Thu Jan 02 22:07:19 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT_PLUS\LIBRARY\METRIC.LLB
+Thu Jan 02 22:07:20 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT_PLUS\LIBRARY\PADSTACK.LLB
+Thu Jan 02 22:07:20 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT_PLUS\LIBRARY\PC104.LLB
+Thu Jan 02 22:07:20 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT_PLUS\LIBRARY\PCI.LLB
+Thu Jan 02 22:07:20 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT_PLUS\LIBRARY\PCON100T.LLB
+Thu Jan 02 22:07:20 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT_PLUS\LIBRARY\PCON156T.LLB
+Thu Jan 02 22:07:20 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT_PLUS\LIBRARY\PGA.LLB
+Thu Jan 02 22:07:20 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT_PLUS\LIBRARY\PLCC.LLB
+Thu Jan 02 22:07:20 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT_PLUS\LIBRARY\QUAD.LLB
+Thu Jan 02 22:07:20 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT_PLUS\LIBRARY\QUADB.LLB
+Thu Jan 02 22:07:20 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT_PLUS\LIBRARY\RELAY.LLB
+Thu Jan 02 22:07:20 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT_PLUS\LIBRARY\RF.LLB
+Thu Jan 02 22:07:20 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT_PLUS\LIBRARY\SBUS.LLB
+Thu Jan 02 22:07:20 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT_PLUS\LIBRARY\SIMM050F.LLB
+Thu Jan 02 22:07:20 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT_PLUS\LIBRARY\SIMM050T.LLB
+Thu Jan 02 22:07:20 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT_PLUS\LIBRARY\SIMM100F.LLB
+Thu Jan 02 22:07:20 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT_PLUS\LIBRARY\SIMM100T.LLB
+Thu Jan 02 22:07:20 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT_PLUS\LIBRARY\SIP.LLB
+Thu Jan 02 22:07:20 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT_PLUS\LIBRARY\SM.LLB
+Thu Jan 02 22:07:20 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT_PLUS\LIBRARY\SOG.LLB
+Thu Jan 02 22:07:20 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT_PLUS\LIBRARY\SOJ.LLB
+Thu Jan 02 22:07:20 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT_PLUS\LIBRARY\STIFF.LLB
+Thu Jan 02 22:07:20 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT_PLUS\LIBRARY\TELE.LLB
+Thu Jan 02 22:07:20 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT_PLUS\LIBRARY\TM_AXIAL.LLB
+Thu Jan 02 22:07:20 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT_PLUS\LIBRARY\TM_CAP_P.LLB
+Thu Jan 02 22:07:20 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT_PLUS\LIBRARY\TM_CYLND.LLB
+Thu Jan 02 22:07:20 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT_PLUS\LIBRARY\TM_DIODE.LLB
+Thu Jan 02 22:07:20 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT_PLUS\LIBRARY\TM_DISC.LLB
+Thu Jan 02 22:07:20 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT_PLUS\LIBRARY\TM_RAD.LLB
+Thu Jan 02 22:07:20 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT_PLUS\LIBRARY\TO.LLB
+Thu Jan 02 22:07:20 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT_PLUS\LIBRARY\TRAINING.LLB
+Thu Jan 02 22:07:20 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT_PLUS\LIBRARY\VRES.LLB
+Thu Jan 02 22:07:20 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT_PLUS\LIBRARY\WCON100T.LLB
+Thu Jan 02 22:07:20 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT_PLUS\LIBRARY\XT.LLB
+Thu Jan 02 22:07:20 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT_PLUS\LIBRARY\ZIGZAG.LLB
+Thu Jan 02 22:10:05 Saved as file BACKUP1.MAX
+Thu Jan 02 22:10:05 Saved as file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Thu Jan 02 22:10:05 UserDiv from Layout.INI for AutoECO: 60
+Thu Jan 02 22:10:05 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Thu Jan 02 22:10:05 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\LAYOUT LIBRARY 01.LLB
+Thu Jan 02 22:10:05 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\LAYOUT LIBRARY 02.LLB
+Thu Jan 02 22:10:05 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\LAYOUT LIBRARY 03.LLB
+Thu Jan 02 22:10:05 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\LAYOUT LIBRARY 04.LLB
+Thu Jan 02 22:10:05 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\LAYOUT LIBRARY 05.LLB
+Thu Jan 02 22:10:05 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\T2H.LLB
+Thu Jan 02 22:10:05 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\TRANSISTOR.LLB
+Thu Jan 02 22:10:05 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\TUHOA.LLB
+Thu Jan 02 22:10:05 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\PIF.LLB
+Thu Jan 02 22:10:05 Loaded file e:\data\programfiles\ORCAD\Layout\library\BCON100T.llb
+Thu Jan 02 22:10:05 Loaded file e:\data\programfiles\ORCAD\Layout\library\BCON156T.llb
+Thu Jan 02 22:10:05 Loaded file e:\data\programfiles\ORCAD\Layout\library\BGA.llb
+Thu Jan 02 22:10:05 Loaded file e:\data\programfiles\ORCAD\Layout\library\CLCC.llb
+Thu Jan 02 22:10:05 Loaded file e:\data\programfiles\ORCAD\Layout\library\DCON050T.llb
+Thu Jan 02 22:10:05 Loaded file e:\data\programfiles\ORCAD\Layout\library\DCON085T.llb
+Thu Jan 02 22:10:05 Loaded file e:\data\programfiles\ORCAD\Layout\library\DIMM050F.llb
+Thu Jan 02 22:10:05 Loaded file e:\data\programfiles\ORCAD\Layout\library\DIMM050T.llb
+Thu Jan 02 22:10:05 Loaded file e:\data\programfiles\ORCAD\Layout\library\DIN.llb
+Thu Jan 02 22:10:05 Loaded file e:\data\programfiles\ORCAD\Layout\library\DIP100B.llb
+Thu Jan 02 22:10:05 Loaded file e:\data\programfiles\ORCAD\Layout\library\DIP100T.llb
+Thu Jan 02 22:10:05 Loaded file e:\data\programfiles\ORCAD\Layout\library\DSUBT.llb
+Thu Jan 02 22:10:05 Loaded file e:\data\programfiles\ORCAD\Layout\library\DSUBT_HD.LLB
+Thu Jan 02 22:10:05 Loaded file e:\data\programfiles\ORCAD\Layout\library\ECON100T.llb
+Thu Jan 02 22:10:05 Loaded file e:\data\programfiles\ORCAD\Layout\library\FBUS.llb
+Thu Jan 02 22:10:05 Loaded file e:\data\programfiles\ORCAD\Layout\library\ISA.llb
+Thu Jan 02 22:10:05 Loaded file e:\data\programfiles\ORCAD\Layout\library\JUMPER.LLB
+Thu Jan 02 22:10:05 Loaded file e:\data\programfiles\ORCAD\Layout\library\LAYOUT.llb
+Thu Jan 02 22:10:05 Loaded file e:\data\programfiles\ORCAD\Layout\library\LCON100T.llb
+Thu Jan 02 22:10:05 Loaded file e:\data\programfiles\ORCAD\Layout\library\PC104.llb
+Thu Jan 02 22:10:05 Loaded file e:\data\programfiles\ORCAD\Layout\library\PCI.llb
+Thu Jan 02 22:10:05 Loaded file e:\data\programfiles\ORCAD\Layout\library\PCON100T.llb
+Thu Jan 02 22:10:05 Loaded file e:\data\programfiles\ORCAD\Layout\library\PCON156T.llb
+Thu Jan 02 22:10:05 Loaded file e:\data\programfiles\ORCAD\Layout\library\PGA.llb
+Thu Jan 02 22:10:05 Loaded file e:\data\programfiles\ORCAD\Layout\library\PLCC.llb
+Thu Jan 02 22:10:05 Loaded file e:\data\programfiles\ORCAD\Layout\library\QUAD.llb
+Thu Jan 02 22:10:05 Loaded file e:\data\programfiles\ORCAD\Layout\library\QUADB.llb
+Thu Jan 02 22:10:05 Loaded file e:\data\programfiles\ORCAD\Layout\library\RELAY.llb
+Thu Jan 02 22:10:05 Loaded file e:\data\programfiles\ORCAD\Layout\library\RF.llb
+Thu Jan 02 22:10:05 Loaded file e:\data\programfiles\ORCAD\Layout\library\SBUS.llb
+Thu Jan 02 22:10:05 Loaded file e:\data\programfiles\ORCAD\Layout\library\SIMM050F.llb
+Thu Jan 02 22:10:05 Loaded file e:\data\programfiles\ORCAD\Layout\library\SIMM050T.llb
+Thu Jan 02 22:10:05 Loaded file e:\data\programfiles\ORCAD\Layout\library\SIMM100F.llb
+Thu Jan 02 22:10:05 Loaded file e:\data\programfiles\ORCAD\Layout\library\SIMM100T.llb
+Thu Jan 02 22:10:05 Loaded file e:\data\programfiles\ORCAD\Layout\library\SIP.llb
+Thu Jan 02 22:10:05 Loaded file e:\data\programfiles\ORCAD\Layout\library\SM.llb
+Thu Jan 02 22:10:05 Loaded file e:\data\programfiles\ORCAD\Layout\library\SOG.llb
+Thu Jan 02 22:10:05 Loaded file e:\data\programfiles\ORCAD\Layout\library\SOJ.llb
+Thu Jan 02 22:10:05 Loaded file e:\data\programfiles\ORCAD\Layout\library\STIFF.llb
+Thu Jan 02 22:10:05 Loaded file e:\data\programfiles\ORCAD\Layout\library\TELE.llb
+Thu Jan 02 22:10:05 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_AXIAL.llb
+Thu Jan 02 22:10:05 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_CAP_P.llb
+Thu Jan 02 22:10:05 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_CYLND.llb
+Thu Jan 02 22:10:05 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_DIODE.llb
+Thu Jan 02 22:10:05 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_DISC.llb
+Thu Jan 02 22:10:05 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_RAD.llb
+Thu Jan 02 22:10:05 Loaded file e:\data\programfiles\ORCAD\Layout\library\TO.llb
+Thu Jan 02 22:10:05 Loaded file e:\data\programfiles\ORCAD\Layout\library\TRAINING.LLB
+Thu Jan 02 22:10:05 Loaded file e:\data\programfiles\ORCAD\Layout\library\VRES.llb
+Thu Jan 02 22:10:05 Loaded file e:\data\programfiles\ORCAD\Layout\library\WCON100T.llb
+Thu Jan 02 22:10:05 Loaded file e:\data\programfiles\ORCAD\Layout\library\XT.llb
+Thu Jan 02 22:10:05 Loaded file e:\data\programfiles\ORCAD\Layout\library\ZIGZAG.llb
+Thu Jan 02 22:10:05 Saved as file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Thu Jan 02 22:10:05 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Thu Jan 02 22:10:59 Saved as file BACKUP1.MAX
+Thu Jan 02 22:17:54 Saved as file ~undo.max
+Thu Jan 02 22:17:59 Saved as file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Thu Jan 02 22:20:59 Saved as file BACKUP1.MAX
+Thu Jan 02 22:21:53 Saved as file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Thu Jan 02 22:24:38 Saved as file ~undo.max
+Thu Jan 02 22:25:16 Saved as file BACKUP1.MAX
+Thu Jan 02 22:25:16 Saved as file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Thu Jan 02 22:25:16 UserDiv from Layout.INI for AutoECO: 60
+Thu Jan 02 22:25:16 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Thu Jan 02 22:25:16 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\LAYOUT LIBRARY 01.LLB
+Thu Jan 02 22:25:16 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\LAYOUT LIBRARY 02.LLB
+Thu Jan 02 22:25:16 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\LAYOUT LIBRARY 03.LLB
+Thu Jan 02 22:25:16 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\LAYOUT LIBRARY 04.LLB
+Thu Jan 02 22:25:16 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\LAYOUT LIBRARY 05.LLB
+Thu Jan 02 22:25:16 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\T2H.LLB
+Thu Jan 02 22:25:16 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\TRANSISTOR.LLB
+Thu Jan 02 22:25:16 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\TUHOA.LLB
+Thu Jan 02 22:25:16 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\PIF.LLB
+Thu Jan 02 22:25:16 Loaded file e:\data\programfiles\ORCAD\Layout\library\BCON100T.llb
+Thu Jan 02 22:25:16 Loaded file e:\data\programfiles\ORCAD\Layout\library\BCON156T.llb
+Thu Jan 02 22:25:16 Loaded file e:\data\programfiles\ORCAD\Layout\library\BGA.llb
+Thu Jan 02 22:25:16 Loaded file e:\data\programfiles\ORCAD\Layout\library\CLCC.llb
+Thu Jan 02 22:25:16 Loaded file e:\data\programfiles\ORCAD\Layout\library\DCON050T.llb
+Thu Jan 02 22:25:16 Loaded file e:\data\programfiles\ORCAD\Layout\library\DCON085T.llb
+Thu Jan 02 22:25:16 Loaded file e:\data\programfiles\ORCAD\Layout\library\DIMM050F.llb
+Thu Jan 02 22:25:16 Loaded file e:\data\programfiles\ORCAD\Layout\library\DIMM050T.llb
+Thu Jan 02 22:25:16 Loaded file e:\data\programfiles\ORCAD\Layout\library\DIN.llb
+Thu Jan 02 22:25:16 Loaded file e:\data\programfiles\ORCAD\Layout\library\DIP100B.llb
+Thu Jan 02 22:25:16 Loaded file e:\data\programfiles\ORCAD\Layout\library\DIP100T.llb
+Thu Jan 02 22:25:16 Loaded file e:\data\programfiles\ORCAD\Layout\library\DSUBT.llb
+Thu Jan 02 22:25:16 Loaded file e:\data\programfiles\ORCAD\Layout\library\DSUBT_HD.LLB
+Thu Jan 02 22:25:16 Loaded file e:\data\programfiles\ORCAD\Layout\library\ECON100T.llb
+Thu Jan 02 22:25:16 Loaded file e:\data\programfiles\ORCAD\Layout\library\FBUS.llb
+Thu Jan 02 22:25:16 Loaded file e:\data\programfiles\ORCAD\Layout\library\ISA.llb
+Thu Jan 02 22:25:16 Loaded file e:\data\programfiles\ORCAD\Layout\library\JUMPER.LLB
+Thu Jan 02 22:25:16 Loaded file e:\data\programfiles\ORCAD\Layout\library\LAYOUT.llb
+Thu Jan 02 22:25:16 Loaded file e:\data\programfiles\ORCAD\Layout\library\LCON100T.llb
+Thu Jan 02 22:25:16 Loaded file e:\data\programfiles\ORCAD\Layout\library\PC104.llb
+Thu Jan 02 22:25:16 Loaded file e:\data\programfiles\ORCAD\Layout\library\PCI.llb
+Thu Jan 02 22:25:16 Loaded file e:\data\programfiles\ORCAD\Layout\library\PCON100T.llb
+Thu Jan 02 22:25:16 Loaded file e:\data\programfiles\ORCAD\Layout\library\PCON156T.llb
+Thu Jan 02 22:25:16 Loaded file e:\data\programfiles\ORCAD\Layout\library\PGA.llb
+Thu Jan 02 22:25:16 Loaded file e:\data\programfiles\ORCAD\Layout\library\PLCC.llb
+Thu Jan 02 22:25:16 Loaded file e:\data\programfiles\ORCAD\Layout\library\QUAD.llb
+Thu Jan 02 22:25:16 Loaded file e:\data\programfiles\ORCAD\Layout\library\QUADB.llb
+Thu Jan 02 22:25:16 Loaded file e:\data\programfiles\ORCAD\Layout\library\RELAY.llb
+Thu Jan 02 22:25:16 Loaded file e:\data\programfiles\ORCAD\Layout\library\RF.llb
+Thu Jan 02 22:25:16 Loaded file e:\data\programfiles\ORCAD\Layout\library\SBUS.llb
+Thu Jan 02 22:25:16 Loaded file e:\data\programfiles\ORCAD\Layout\library\SIMM050F.llb
+Thu Jan 02 22:25:16 Loaded file e:\data\programfiles\ORCAD\Layout\library\SIMM050T.llb
+Thu Jan 02 22:25:16 Loaded file e:\data\programfiles\ORCAD\Layout\library\SIMM100F.llb
+Thu Jan 02 22:25:16 Loaded file e:\data\programfiles\ORCAD\Layout\library\SIMM100T.llb
+Thu Jan 02 22:25:16 Loaded file e:\data\programfiles\ORCAD\Layout\library\SIP.llb
+Thu Jan 02 22:25:16 Loaded file e:\data\programfiles\ORCAD\Layout\library\SM.llb
+Thu Jan 02 22:25:16 Loaded file e:\data\programfiles\ORCAD\Layout\library\SOG.llb
+Thu Jan 02 22:25:16 Loaded file e:\data\programfiles\ORCAD\Layout\library\SOJ.llb
+Thu Jan 02 22:25:16 Loaded file e:\data\programfiles\ORCAD\Layout\library\STIFF.llb
+Thu Jan 02 22:25:16 Loaded file e:\data\programfiles\ORCAD\Layout\library\TELE.llb
+Thu Jan 02 22:25:16 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_AXIAL.llb
+Thu Jan 02 22:25:16 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_CAP_P.llb
+Thu Jan 02 22:25:16 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_CYLND.llb
+Thu Jan 02 22:25:16 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_DIODE.llb
+Thu Jan 02 22:25:16 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_DISC.llb
+Thu Jan 02 22:25:16 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_RAD.llb
+Thu Jan 02 22:25:16 Loaded file e:\data\programfiles\ORCAD\Layout\library\TO.llb
+Thu Jan 02 22:25:16 Loaded file e:\data\programfiles\ORCAD\Layout\library\TRAINING.LLB
+Thu Jan 02 22:25:16 Loaded file e:\data\programfiles\ORCAD\Layout\library\VRES.llb
+Thu Jan 02 22:25:16 Loaded file e:\data\programfiles\ORCAD\Layout\library\WCON100T.llb
+Thu Jan 02 22:25:17 Loaded file e:\data\programfiles\ORCAD\Layout\library\XT.llb
+Thu Jan 02 22:25:17 Loaded file e:\data\programfiles\ORCAD\Layout\library\ZIGZAG.llb
+Thu Jan 02 22:25:17 Saved as file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Thu Jan 02 22:25:17 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Thu Jan 02 22:27:31 Saved as file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Thu Jan 02 22:27:36 Saved as file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Thu Jan 02 22:27:40 Saved as file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Thu Jan 02 22:31:29 Saved as file BACKUP1.MAX
+Thu Jan 02 22:41:59 Saved as file BACKUP1.MAX
+Thu Jan 02 22:49:34 Saved as file BACKUP1.MAX
+Thu Jan 02 22:49:34 Saved as file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Thu Jan 02 22:49:34 UserDiv from Layout.INI for AutoECO: 60
+Thu Jan 02 22:49:34 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Thu Jan 02 22:49:34 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\LAYOUT LIBRARY 01.LLB
+Thu Jan 02 22:49:34 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\LAYOUT LIBRARY 02.LLB
+Thu Jan 02 22:49:34 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\LAYOUT LIBRARY 03.LLB
+Thu Jan 02 22:49:34 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\LAYOUT LIBRARY 04.LLB
+Thu Jan 02 22:49:34 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\LAYOUT LIBRARY 05.LLB
+Thu Jan 02 22:49:34 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\T2H.LLB
+Thu Jan 02 22:49:34 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\TRANSISTOR.LLB
+Thu Jan 02 22:49:34 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\TUHOA.LLB
+Thu Jan 02 22:49:34 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\PIF.LLB
+Thu Jan 02 22:49:34 Loaded file e:\data\programfiles\ORCAD\Layout\library\BCON100T.llb
+Thu Jan 02 22:49:34 Loaded file e:\data\programfiles\ORCAD\Layout\library\BCON156T.llb
+Thu Jan 02 22:49:34 Loaded file e:\data\programfiles\ORCAD\Layout\library\BGA.llb
+Thu Jan 02 22:49:34 Loaded file e:\data\programfiles\ORCAD\Layout\library\CLCC.llb
+Thu Jan 02 22:49:34 Loaded file e:\data\programfiles\ORCAD\Layout\library\DCON050T.llb
+Thu Jan 02 22:49:34 Loaded file e:\data\programfiles\ORCAD\Layout\library\DCON085T.llb
+Thu Jan 02 22:49:34 Loaded file e:\data\programfiles\ORCAD\Layout\library\DIMM050F.llb
+Thu Jan 02 22:49:34 Loaded file e:\data\programfiles\ORCAD\Layout\library\DIMM050T.llb
+Thu Jan 02 22:49:34 Loaded file e:\data\programfiles\ORCAD\Layout\library\DIN.llb
+Thu Jan 02 22:49:34 Loaded file e:\data\programfiles\ORCAD\Layout\library\DIP100B.llb
+Thu Jan 02 22:49:34 Loaded file e:\data\programfiles\ORCAD\Layout\library\DIP100T.llb
+Thu Jan 02 22:49:34 Loaded file e:\data\programfiles\ORCAD\Layout\library\DSUBT.llb
+Thu Jan 02 22:49:34 Loaded file e:\data\programfiles\ORCAD\Layout\library\DSUBT_HD.LLB
+Thu Jan 02 22:49:34 Loaded file e:\data\programfiles\ORCAD\Layout\library\ECON100T.llb
+Thu Jan 02 22:49:34 Loaded file e:\data\programfiles\ORCAD\Layout\library\FBUS.llb
+Thu Jan 02 22:49:34 Loaded file e:\data\programfiles\ORCAD\Layout\library\ISA.llb
+Thu Jan 02 22:49:34 Loaded file e:\data\programfiles\ORCAD\Layout\library\JUMPER.LLB
+Thu Jan 02 22:49:34 Loaded file e:\data\programfiles\ORCAD\Layout\library\LAYOUT.llb
+Thu Jan 02 22:49:34 Loaded file e:\data\programfiles\ORCAD\Layout\library\LCON100T.llb
+Thu Jan 02 22:49:34 Loaded file e:\data\programfiles\ORCAD\Layout\library\PC104.llb
+Thu Jan 02 22:49:34 Loaded file e:\data\programfiles\ORCAD\Layout\library\PCI.llb
+Thu Jan 02 22:49:34 Loaded file e:\data\programfiles\ORCAD\Layout\library\PCON100T.llb
+Thu Jan 02 22:49:34 Loaded file e:\data\programfiles\ORCAD\Layout\library\PCON156T.llb
+Thu Jan 02 22:49:34 Loaded file e:\data\programfiles\ORCAD\Layout\library\PGA.llb
+Thu Jan 02 22:49:34 Loaded file e:\data\programfiles\ORCAD\Layout\library\PLCC.llb
+Thu Jan 02 22:49:34 Loaded file e:\data\programfiles\ORCAD\Layout\library\QUAD.llb
+Thu Jan 02 22:49:34 Loaded file e:\data\programfiles\ORCAD\Layout\library\QUADB.llb
+Thu Jan 02 22:49:34 Loaded file e:\data\programfiles\ORCAD\Layout\library\RELAY.llb
+Thu Jan 02 22:49:34 Loaded file e:\data\programfiles\ORCAD\Layout\library\RF.llb
+Thu Jan 02 22:49:34 Loaded file e:\data\programfiles\ORCAD\Layout\library\SBUS.llb
+Thu Jan 02 22:49:34 Loaded file e:\data\programfiles\ORCAD\Layout\library\SIMM050F.llb
+Thu Jan 02 22:49:34 Loaded file e:\data\programfiles\ORCAD\Layout\library\SIMM050T.llb
+Thu Jan 02 22:49:34 Loaded file e:\data\programfiles\ORCAD\Layout\library\SIMM100F.llb
+Thu Jan 02 22:49:34 Loaded file e:\data\programfiles\ORCAD\Layout\library\SIMM100T.llb
+Thu Jan 02 22:49:34 Loaded file e:\data\programfiles\ORCAD\Layout\library\SIP.llb
+Thu Jan 02 22:49:34 Loaded file e:\data\programfiles\ORCAD\Layout\library\SM.llb
+Thu Jan 02 22:49:34 Loaded file e:\data\programfiles\ORCAD\Layout\library\SOG.llb
+Thu Jan 02 22:49:34 Loaded file e:\data\programfiles\ORCAD\Layout\library\SOJ.llb
+Thu Jan 02 22:49:34 Loaded file e:\data\programfiles\ORCAD\Layout\library\STIFF.llb
+Thu Jan 02 22:49:34 Loaded file e:\data\programfiles\ORCAD\Layout\library\TELE.llb
+Thu Jan 02 22:49:34 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_AXIAL.llb
+Thu Jan 02 22:49:34 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_CAP_P.llb
+Thu Jan 02 22:49:34 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_CYLND.llb
+Thu Jan 02 22:49:34 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_DIODE.llb
+Thu Jan 02 22:49:34 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_DISC.llb
+Thu Jan 02 22:49:34 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_RAD.llb
+Thu Jan 02 22:49:34 Loaded file e:\data\programfiles\ORCAD\Layout\library\TO.llb
+Thu Jan 02 22:49:34 Loaded file e:\data\programfiles\ORCAD\Layout\library\TRAINING.LLB
+Thu Jan 02 22:49:34 Loaded file e:\data\programfiles\ORCAD\Layout\library\VRES.llb
+Thu Jan 02 22:49:34 Loaded file e:\data\programfiles\ORCAD\Layout\library\WCON100T.llb
+Thu Jan 02 22:49:34 Loaded file e:\data\programfiles\ORCAD\Layout\library\XT.llb
+Thu Jan 02 22:49:34 Loaded file e:\data\programfiles\ORCAD\Layout\library\ZIGZAG.llb
+Thu Jan 02 22:49:36 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT\data\template.imp
+Thu Jan 02 22:49:36 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT\data\template.imp
+Thu Jan 02 22:49:47 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT\data\template.imp
+Thu Jan 02 22:49:48 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\LAYOUT LIBRARY 01.LLB
+Thu Jan 02 22:49:48 Saved as file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Thu Jan 02 22:49:48 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Thu Jan 02 22:51:00 Saved as file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Thu Jan 02 22:52:29 Saved as file BACKUP1.MAX
+Thu Jan 02 22:52:42 Saved as file BACKUP1.MAX
+Thu Jan 02 22:52:42 Saved as file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Thu Jan 02 22:52:42 UserDiv from Layout.INI for AutoECO: 60
+Thu Jan 02 22:52:42 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Thu Jan 02 22:52:42 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\LAYOUT LIBRARY 01.LLB
+Thu Jan 02 22:52:42 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\LAYOUT LIBRARY 02.LLB
+Thu Jan 02 22:52:42 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\LAYOUT LIBRARY 03.LLB
+Thu Jan 02 22:52:42 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\LAYOUT LIBRARY 04.LLB
+Thu Jan 02 22:52:42 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\LAYOUT LIBRARY 05.LLB
+Thu Jan 02 22:52:42 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\T2H.LLB
+Thu Jan 02 22:52:42 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\TRANSISTOR.LLB
+Thu Jan 02 22:52:42 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\TUHOA.LLB
+Thu Jan 02 22:52:42 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\PIF.LLB
+Thu Jan 02 22:52:42 Loaded file e:\data\programfiles\ORCAD\Layout\library\BCON100T.llb
+Thu Jan 02 22:52:42 Loaded file e:\data\programfiles\ORCAD\Layout\library\BCON156T.llb
+Thu Jan 02 22:52:42 Loaded file e:\data\programfiles\ORCAD\Layout\library\BGA.llb
+Thu Jan 02 22:52:42 Loaded file e:\data\programfiles\ORCAD\Layout\library\CLCC.llb
+Thu Jan 02 22:52:42 Loaded file e:\data\programfiles\ORCAD\Layout\library\DCON050T.llb
+Thu Jan 02 22:52:42 Loaded file e:\data\programfiles\ORCAD\Layout\library\DCON085T.llb
+Thu Jan 02 22:52:42 Loaded file e:\data\programfiles\ORCAD\Layout\library\DIMM050F.llb
+Thu Jan 02 22:52:42 Loaded file e:\data\programfiles\ORCAD\Layout\library\DIMM050T.llb
+Thu Jan 02 22:52:42 Loaded file e:\data\programfiles\ORCAD\Layout\library\DIN.llb
+Thu Jan 02 22:52:42 Loaded file e:\data\programfiles\ORCAD\Layout\library\DIP100B.llb
+Thu Jan 02 22:52:42 Loaded file e:\data\programfiles\ORCAD\Layout\library\DIP100T.llb
+Thu Jan 02 22:52:42 Loaded file e:\data\programfiles\ORCAD\Layout\library\DSUBT.llb
+Thu Jan 02 22:52:42 Loaded file e:\data\programfiles\ORCAD\Layout\library\DSUBT_HD.LLB
+Thu Jan 02 22:52:42 Loaded file e:\data\programfiles\ORCAD\Layout\library\ECON100T.llb
+Thu Jan 02 22:52:42 Loaded file e:\data\programfiles\ORCAD\Layout\library\FBUS.llb
+Thu Jan 02 22:52:42 Loaded file e:\data\programfiles\ORCAD\Layout\library\ISA.llb
+Thu Jan 02 22:52:42 Loaded file e:\data\programfiles\ORCAD\Layout\library\JUMPER.LLB
+Thu Jan 02 22:52:42 Loaded file e:\data\programfiles\ORCAD\Layout\library\LAYOUT.llb
+Thu Jan 02 22:52:42 Loaded file e:\data\programfiles\ORCAD\Layout\library\LCON100T.llb
+Thu Jan 02 22:52:42 Loaded file e:\data\programfiles\ORCAD\Layout\library\PC104.llb
+Thu Jan 02 22:52:42 Loaded file e:\data\programfiles\ORCAD\Layout\library\PCI.llb
+Thu Jan 02 22:52:42 Loaded file e:\data\programfiles\ORCAD\Layout\library\PCON100T.llb
+Thu Jan 02 22:52:42 Loaded file e:\data\programfiles\ORCAD\Layout\library\PCON156T.llb
+Thu Jan 02 22:52:42 Loaded file e:\data\programfiles\ORCAD\Layout\library\PGA.llb
+Thu Jan 02 22:52:42 Loaded file e:\data\programfiles\ORCAD\Layout\library\PLCC.llb
+Thu Jan 02 22:52:42 Loaded file e:\data\programfiles\ORCAD\Layout\library\QUAD.llb
+Thu Jan 02 22:52:42 Loaded file e:\data\programfiles\ORCAD\Layout\library\QUADB.llb
+Thu Jan 02 22:52:42 Loaded file e:\data\programfiles\ORCAD\Layout\library\RELAY.llb
+Thu Jan 02 22:52:42 Loaded file e:\data\programfiles\ORCAD\Layout\library\RF.llb
+Thu Jan 02 22:52:42 Loaded file e:\data\programfiles\ORCAD\Layout\library\SBUS.llb
+Thu Jan 02 22:52:42 Loaded file e:\data\programfiles\ORCAD\Layout\library\SIMM050F.llb
+Thu Jan 02 22:52:42 Loaded file e:\data\programfiles\ORCAD\Layout\library\SIMM050T.llb
+Thu Jan 02 22:52:42 Loaded file e:\data\programfiles\ORCAD\Layout\library\SIMM100F.llb
+Thu Jan 02 22:52:42 Loaded file e:\data\programfiles\ORCAD\Layout\library\SIMM100T.llb
+Thu Jan 02 22:52:42 Loaded file e:\data\programfiles\ORCAD\Layout\library\SIP.llb
+Thu Jan 02 22:52:42 Loaded file e:\data\programfiles\ORCAD\Layout\library\SM.llb
+Thu Jan 02 22:52:42 Loaded file e:\data\programfiles\ORCAD\Layout\library\SOG.llb
+Thu Jan 02 22:52:43 Loaded file e:\data\programfiles\ORCAD\Layout\library\SOJ.llb
+Thu Jan 02 22:52:43 Loaded file e:\data\programfiles\ORCAD\Layout\library\STIFF.llb
+Thu Jan 02 22:52:43 Loaded file e:\data\programfiles\ORCAD\Layout\library\TELE.llb
+Thu Jan 02 22:52:43 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_AXIAL.llb
+Thu Jan 02 22:52:43 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_CAP_P.llb
+Thu Jan 02 22:52:43 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_CYLND.llb
+Thu Jan 02 22:52:43 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_DIODE.llb
+Thu Jan 02 22:52:43 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_DISC.llb
+Thu Jan 02 22:52:43 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_RAD.llb
+Thu Jan 02 22:52:43 Loaded file e:\data\programfiles\ORCAD\Layout\library\TO.llb
+Thu Jan 02 22:52:43 Loaded file e:\data\programfiles\ORCAD\Layout\library\TRAINING.LLB
+Thu Jan 02 22:52:43 Loaded file e:\data\programfiles\ORCAD\Layout\library\VRES.llb
+Thu Jan 02 22:52:43 Loaded file e:\data\programfiles\ORCAD\Layout\library\WCON100T.llb
+Thu Jan 02 22:52:43 Loaded file e:\data\programfiles\ORCAD\Layout\library\XT.llb
+Thu Jan 02 22:52:43 Loaded file e:\data\programfiles\ORCAD\Layout\library\ZIGZAG.llb
+Thu Jan 02 22:52:43 Saved as file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Thu Jan 02 22:52:43 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Thu Jan 02 22:53:01 Saved as file ~undo.max
+Thu Jan 02 22:58:06 Saved as file BACKUP1.MAX
+Thu Jan 02 22:58:06 Saved as file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Thu Jan 02 22:58:06 UserDiv from Layout.INI for AutoECO: 60
+Thu Jan 02 22:58:06 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Thu Jan 02 22:58:06 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\LAYOUT LIBRARY 01.LLB
+Thu Jan 02 22:58:06 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\LAYOUT LIBRARY 02.LLB
+Thu Jan 02 22:58:06 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\LAYOUT LIBRARY 03.LLB
+Thu Jan 02 22:58:06 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\LAYOUT LIBRARY 04.LLB
+Thu Jan 02 22:58:06 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\LAYOUT LIBRARY 05.LLB
+Thu Jan 02 22:58:06 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\T2H.LLB
+Thu Jan 02 22:58:06 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\TRANSISTOR.LLB
+Thu Jan 02 22:58:06 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\TUHOA.LLB
+Thu Jan 02 22:58:06 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\PIF.LLB
+Thu Jan 02 22:58:06 Loaded file e:\data\programfiles\ORCAD\Layout\library\BCON100T.llb
+Thu Jan 02 22:58:06 Loaded file e:\data\programfiles\ORCAD\Layout\library\BCON156T.llb
+Thu Jan 02 22:58:06 Loaded file e:\data\programfiles\ORCAD\Layout\library\BGA.llb
+Thu Jan 02 22:58:06 Loaded file e:\data\programfiles\ORCAD\Layout\library\CLCC.llb
+Thu Jan 02 22:58:06 Loaded file e:\data\programfiles\ORCAD\Layout\library\DCON050T.llb
+Thu Jan 02 22:58:06 Loaded file e:\data\programfiles\ORCAD\Layout\library\DCON085T.llb
+Thu Jan 02 22:58:06 Loaded file e:\data\programfiles\ORCAD\Layout\library\DIMM050F.llb
+Thu Jan 02 22:58:06 Loaded file e:\data\programfiles\ORCAD\Layout\library\DIMM050T.llb
+Thu Jan 02 22:58:06 Loaded file e:\data\programfiles\ORCAD\Layout\library\DIN.llb
+Thu Jan 02 22:58:06 Loaded file e:\data\programfiles\ORCAD\Layout\library\DIP100B.llb
+Thu Jan 02 22:58:06 Loaded file e:\data\programfiles\ORCAD\Layout\library\DIP100T.llb
+Thu Jan 02 22:58:06 Loaded file e:\data\programfiles\ORCAD\Layout\library\DSUBT.llb
+Thu Jan 02 22:58:06 Loaded file e:\data\programfiles\ORCAD\Layout\library\DSUBT_HD.LLB
+Thu Jan 02 22:58:06 Loaded file e:\data\programfiles\ORCAD\Layout\library\ECON100T.llb
+Thu Jan 02 22:58:06 Loaded file e:\data\programfiles\ORCAD\Layout\library\FBUS.llb
+Thu Jan 02 22:58:06 Loaded file e:\data\programfiles\ORCAD\Layout\library\ISA.llb
+Thu Jan 02 22:58:06 Loaded file e:\data\programfiles\ORCAD\Layout\library\JUMPER.LLB
+Thu Jan 02 22:58:06 Loaded file e:\data\programfiles\ORCAD\Layout\library\LAYOUT.llb
+Thu Jan 02 22:58:06 Loaded file e:\data\programfiles\ORCAD\Layout\library\LCON100T.llb
+Thu Jan 02 22:58:06 Loaded file e:\data\programfiles\ORCAD\Layout\library\PC104.llb
+Thu Jan 02 22:58:06 Loaded file e:\data\programfiles\ORCAD\Layout\library\PCI.llb
+Thu Jan 02 22:58:06 Loaded file e:\data\programfiles\ORCAD\Layout\library\PCON100T.llb
+Thu Jan 02 22:58:06 Loaded file e:\data\programfiles\ORCAD\Layout\library\PCON156T.llb
+Thu Jan 02 22:58:06 Loaded file e:\data\programfiles\ORCAD\Layout\library\PGA.llb
+Thu Jan 02 22:58:06 Loaded file e:\data\programfiles\ORCAD\Layout\library\PLCC.llb
+Thu Jan 02 22:58:06 Loaded file e:\data\programfiles\ORCAD\Layout\library\QUAD.llb
+Thu Jan 02 22:58:06 Loaded file e:\data\programfiles\ORCAD\Layout\library\QUADB.llb
+Thu Jan 02 22:58:06 Loaded file e:\data\programfiles\ORCAD\Layout\library\RELAY.llb
+Thu Jan 02 22:58:06 Loaded file e:\data\programfiles\ORCAD\Layout\library\RF.llb
+Thu Jan 02 22:58:06 Loaded file e:\data\programfiles\ORCAD\Layout\library\SBUS.llb
+Thu Jan 02 22:58:06 Loaded file e:\data\programfiles\ORCAD\Layout\library\SIMM050F.llb
+Thu Jan 02 22:58:06 Loaded file e:\data\programfiles\ORCAD\Layout\library\SIMM050T.llb
+Thu Jan 02 22:58:06 Loaded file e:\data\programfiles\ORCAD\Layout\library\SIMM100F.llb
+Thu Jan 02 22:58:06 Loaded file e:\data\programfiles\ORCAD\Layout\library\SIMM100T.llb
+Thu Jan 02 22:58:06 Loaded file e:\data\programfiles\ORCAD\Layout\library\SIP.llb
+Thu Jan 02 22:58:06 Loaded file e:\data\programfiles\ORCAD\Layout\library\SM.llb
+Thu Jan 02 22:58:06 Loaded file e:\data\programfiles\ORCAD\Layout\library\SOG.llb
+Thu Jan 02 22:58:06 Loaded file e:\data\programfiles\ORCAD\Layout\library\SOJ.llb
+Thu Jan 02 22:58:06 Loaded file e:\data\programfiles\ORCAD\Layout\library\STIFF.llb
+Thu Jan 02 22:58:06 Loaded file e:\data\programfiles\ORCAD\Layout\library\TELE.llb
+Thu Jan 02 22:58:06 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_AXIAL.llb
+Thu Jan 02 22:58:06 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_CAP_P.llb
+Thu Jan 02 22:58:07 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_CYLND.llb
+Thu Jan 02 22:58:07 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_DIODE.llb
+Thu Jan 02 22:58:07 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_DISC.llb
+Thu Jan 02 22:58:07 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_RAD.llb
+Thu Jan 02 22:58:07 Loaded file e:\data\programfiles\ORCAD\Layout\library\TO.llb
+Thu Jan 02 22:58:07 Loaded file e:\data\programfiles\ORCAD\Layout\library\TRAINING.LLB
+Thu Jan 02 22:58:07 Loaded file e:\data\programfiles\ORCAD\Layout\library\VRES.llb
+Thu Jan 02 22:58:07 Loaded file e:\data\programfiles\ORCAD\Layout\library\WCON100T.llb
+Thu Jan 02 22:58:07 Loaded file e:\data\programfiles\ORCAD\Layout\library\XT.llb
+Thu Jan 02 22:58:07 Loaded file e:\data\programfiles\ORCAD\Layout\library\ZIGZAG.llb
+Thu Jan 02 22:58:07 Saved as file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Thu Jan 02 22:58:07 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Thu Jan 02 23:00:40 Saved as file BACKUP1.MAX
+Thu Jan 02 23:00:40 Saved as file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Thu Jan 02 23:00:40 UserDiv from Layout.INI for AutoECO: 60
+Thu Jan 02 23:00:40 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Thu Jan 02 23:00:40 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\LAYOUT LIBRARY 01.LLB
+Thu Jan 02 23:00:40 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\LAYOUT LIBRARY 02.LLB
+Thu Jan 02 23:00:40 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\LAYOUT LIBRARY 03.LLB
+Thu Jan 02 23:00:40 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\LAYOUT LIBRARY 04.LLB
+Thu Jan 02 23:00:40 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\LAYOUT LIBRARY 05.LLB
+Thu Jan 02 23:00:40 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\T2H.LLB
+Thu Jan 02 23:00:40 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\TRANSISTOR.LLB
+Thu Jan 02 23:00:40 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\TUHOA.LLB
+Thu Jan 02 23:00:40 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\PIF.LLB
+Thu Jan 02 23:00:40 Loaded file e:\data\programfiles\ORCAD\Layout\library\BCON100T.llb
+Thu Jan 02 23:00:40 Loaded file e:\data\programfiles\ORCAD\Layout\library\BCON156T.llb
+Thu Jan 02 23:00:40 Loaded file e:\data\programfiles\ORCAD\Layout\library\BGA.llb
+Thu Jan 02 23:00:40 Loaded file e:\data\programfiles\ORCAD\Layout\library\CLCC.llb
+Thu Jan 02 23:00:40 Loaded file e:\data\programfiles\ORCAD\Layout\library\DCON050T.llb
+Thu Jan 02 23:00:40 Loaded file e:\data\programfiles\ORCAD\Layout\library\DCON085T.llb
+Thu Jan 02 23:00:40 Loaded file e:\data\programfiles\ORCAD\Layout\library\DIMM050F.llb
+Thu Jan 02 23:00:40 Loaded file e:\data\programfiles\ORCAD\Layout\library\DIMM050T.llb
+Thu Jan 02 23:00:40 Loaded file e:\data\programfiles\ORCAD\Layout\library\DIN.llb
+Thu Jan 02 23:00:40 Loaded file e:\data\programfiles\ORCAD\Layout\library\DIP100B.llb
+Thu Jan 02 23:00:40 Loaded file e:\data\programfiles\ORCAD\Layout\library\DIP100T.llb
+Thu Jan 02 23:00:40 Loaded file e:\data\programfiles\ORCAD\Layout\library\DSUBT.llb
+Thu Jan 02 23:00:40 Loaded file e:\data\programfiles\ORCAD\Layout\library\DSUBT_HD.LLB
+Thu Jan 02 23:00:40 Loaded file e:\data\programfiles\ORCAD\Layout\library\ECON100T.llb
+Thu Jan 02 23:00:40 Loaded file e:\data\programfiles\ORCAD\Layout\library\FBUS.llb
+Thu Jan 02 23:00:40 Loaded file e:\data\programfiles\ORCAD\Layout\library\ISA.llb
+Thu Jan 02 23:00:40 Loaded file e:\data\programfiles\ORCAD\Layout\library\JUMPER.LLB
+Thu Jan 02 23:00:40 Loaded file e:\data\programfiles\ORCAD\Layout\library\LAYOUT.llb
+Thu Jan 02 23:00:40 Loaded file e:\data\programfiles\ORCAD\Layout\library\LCON100T.llb
+Thu Jan 02 23:00:40 Loaded file e:\data\programfiles\ORCAD\Layout\library\PC104.llb
+Thu Jan 02 23:00:40 Loaded file e:\data\programfiles\ORCAD\Layout\library\PCI.llb
+Thu Jan 02 23:00:40 Loaded file e:\data\programfiles\ORCAD\Layout\library\PCON100T.llb
+Thu Jan 02 23:00:40 Loaded file e:\data\programfiles\ORCAD\Layout\library\PCON156T.llb
+Thu Jan 02 23:00:40 Loaded file e:\data\programfiles\ORCAD\Layout\library\PGA.llb
+Thu Jan 02 23:00:40 Loaded file e:\data\programfiles\ORCAD\Layout\library\PLCC.llb
+Thu Jan 02 23:00:40 Loaded file e:\data\programfiles\ORCAD\Layout\library\QUAD.llb
+Thu Jan 02 23:00:40 Loaded file e:\data\programfiles\ORCAD\Layout\library\QUADB.llb
+Thu Jan 02 23:00:40 Loaded file e:\data\programfiles\ORCAD\Layout\library\RELAY.llb
+Thu Jan 02 23:00:40 Loaded file e:\data\programfiles\ORCAD\Layout\library\RF.llb
+Thu Jan 02 23:00:40 Loaded file e:\data\programfiles\ORCAD\Layout\library\SBUS.llb
+Thu Jan 02 23:00:40 Loaded file e:\data\programfiles\ORCAD\Layout\library\SIMM050F.llb
+Thu Jan 02 23:00:40 Loaded file e:\data\programfiles\ORCAD\Layout\library\SIMM050T.llb
+Thu Jan 02 23:00:40 Loaded file e:\data\programfiles\ORCAD\Layout\library\SIMM100F.llb
+Thu Jan 02 23:00:40 Loaded file e:\data\programfiles\ORCAD\Layout\library\SIMM100T.llb
+Thu Jan 02 23:00:40 Loaded file e:\data\programfiles\ORCAD\Layout\library\SIP.llb
+Thu Jan 02 23:00:40 Loaded file e:\data\programfiles\ORCAD\Layout\library\SM.llb
+Thu Jan 02 23:00:40 Loaded file e:\data\programfiles\ORCAD\Layout\library\SOG.llb
+Thu Jan 02 23:00:40 Loaded file e:\data\programfiles\ORCAD\Layout\library\SOJ.llb
+Thu Jan 02 23:00:40 Loaded file e:\data\programfiles\ORCAD\Layout\library\STIFF.llb
+Thu Jan 02 23:00:40 Loaded file e:\data\programfiles\ORCAD\Layout\library\TELE.llb
+Thu Jan 02 23:00:40 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_AXIAL.llb
+Thu Jan 02 23:00:40 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_CAP_P.llb
+Thu Jan 02 23:00:40 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_CYLND.llb
+Thu Jan 02 23:00:40 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_DIODE.llb
+Thu Jan 02 23:00:40 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_DISC.llb
+Thu Jan 02 23:00:40 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_RAD.llb
+Thu Jan 02 23:00:40 Loaded file e:\data\programfiles\ORCAD\Layout\library\TO.llb
+Thu Jan 02 23:00:40 Loaded file e:\data\programfiles\ORCAD\Layout\library\TRAINING.LLB
+Thu Jan 02 23:00:40 Loaded file e:\data\programfiles\ORCAD\Layout\library\VRES.llb
+Thu Jan 02 23:00:40 Loaded file e:\data\programfiles\ORCAD\Layout\library\WCON100T.llb
+Thu Jan 02 23:00:40 Loaded file e:\data\programfiles\ORCAD\Layout\library\XT.llb
+Thu Jan 02 23:00:40 Loaded file e:\data\programfiles\ORCAD\Layout\library\ZIGZAG.llb
+Thu Jan 02 23:00:40 Saved as file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Thu Jan 02 23:00:40 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Thu Jan 02 23:03:29 Saved as file BACKUP1.MAX
+Thu Jan 02 23:04:05 Saved as file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Thu Jan 02 23:06:28 No new connections routed.
+Thu Jan 02 23:06:28 Total is now 0 out of 129 (0%).
+Thu Jan 02 23:06:28 Saved as file SWEEP1.MAX
+Thu Jan 02 23:06:28 Saved as file BACKUP1.MAX
+Thu Jan 02 23:06:28 Saved as file BACKUP1.MAX
+Thu Jan 02 23:06:46 Saved as file BACKUP1.MAX
+Thu Jan 02 23:06:46 Saved as file BACKUP1.MAX
+Thu Jan 02 23:06:55 Saved as file BACKUP1.MAX
+Thu Jan 02 23:06:55 Saved as file BACKUP1.MAX
+Thu Jan 02 23:07:09 Saved as file BACKUP1.MAX
+Thu Jan 02 23:07:10 Saved as file BACKUP1.MAX
+Thu Jan 02 23:07:17 Saved as file BACKUP1.MAX
+Thu Jan 02 23:07:18 Saved as file BACKUP1.MAX
+Thu Jan 02 23:07:18 Saved as file BACKUP1.MAX
+Thu Jan 02 23:07:18 Saved as file BACKUP1.MAX
+Thu Jan 02 23:07:27 Saved as file BACKUP1.MAX
+Thu Jan 02 23:07:27 Saved as file BACKUP1.MAX
+Thu Jan 02 23:07:27 Saved as file BACKUP1.MAX
+Thu Jan 02 23:07:27 Saved as file BACKUP1.MAX
+Thu Jan 02 23:07:27 Saved as file BACKUP1.MAX
+Thu Jan 02 23:07:27 Saved as file BACKUP1.MAX
+Thu Jan 02 23:07:27 Saved as file BACKUP1.MAX
+Thu Jan 02 23:07:27 Saved as file BACKUP1.MAX
+Thu Jan 02 23:07:27 Saved as file BACKUP1.MAX
+Thu Jan 02 23:07:27 Saved as file BACKUP1.MAX
+Thu Jan 02 23:07:27 Saved as file BACKUP1.MAX
+Thu Jan 02 23:07:27 Saved as file BACKUP1.MAX
+Thu Jan 02 23:07:27 Saved as file BACKUP1.MAX
+Thu Jan 02 23:07:27 Saved as file BACKUP1.MAX
+Thu Jan 02 23:07:27 Saved as file BACKUP1.MAX
+Thu Jan 02 23:07:27 Saved as file BACKUP1.MAX
+Thu Jan 02 23:07:27 Saved as file BACKUP1.MAX
+Thu Jan 02 23:07:27 Saved as file BACKUP1.MAX
+Thu Jan 02 23:07:27 Saved as file BACKUP1.MAX
+Thu Jan 02 23:07:27 Saved as file BACKUP1.MAX
+Thu Jan 02 23:07:27 Saved as file BACKUP1.MAX
+Thu Jan 02 23:07:27 Saved as file BACKUP1.MAX
+Thu Jan 02 23:07:28 Saved as file BACKUP1.MAX
+Thu Jan 02 23:07:28 Saved as file BACKUP1.MAX
+Thu Jan 02 23:07:28 Saved as file BACKUP1.MAX
+Thu Jan 02 23:07:28 Saved as file BACKUP1.MAX
+Thu Jan 02 23:07:28 Saved as file BACKUP1.MAX
+Thu Jan 02 23:07:28 Saved as file BACKUP1.MAX
+Thu Jan 02 23:07:28 Saved as file BACKUP1.MAX
+Thu Jan 02 23:11:03 Saved as file BACKUP1.MAX
+Thu Jan 02 23:11:04 Saved as file BACKUP1.MAX
+Thu Jan 02 23:11:05 Saved as file BACKUP1.MAX
+Thu Jan 02 23:11:14 Saved as file BACKUP1.MAX
+Thu Jan 02 23:11:14 Saved as file BACKUP1.MAX
+Thu Jan 02 23:11:14 Saved as file BACKUP1.MAX
+Thu Jan 02 23:11:14 Saved as file BACKUP1.MAX
+Thu Jan 02 23:11:14 Saved as file BACKUP1.MAX
+Thu Jan 02 23:11:14 Saved as file BACKUP1.MAX
+Thu Jan 02 23:11:14 Saved as file BACKUP1.MAX
+Thu Jan 02 23:11:15 Saved as file BACKUP1.MAX
+Thu Jan 02 23:11:15 Saved as file BACKUP1.MAX
+Thu Jan 02 23:11:15 Saved as file BACKUP1.MAX
+Thu Jan 02 23:11:15 Saved as file BACKUP1.MAX
+Thu Jan 02 23:11:15 Saved as file BACKUP1.MAX
+Thu Jan 02 23:11:15 Saved as file BACKUP1.MAX
+Thu Jan 02 23:11:15 Saved as file BACKUP1.MAX
+Thu Jan 02 23:11:15 Saved as file BACKUP1.MAX
+Thu Jan 02 23:11:15 Saved as file BACKUP1.MAX
+Thu Jan 02 23:11:15 Saved as file BACKUP1.MAX
+Thu Jan 02 23:11:15 Saved as file BACKUP1.MAX
+Thu Jan 02 23:11:15 Saved as file BACKUP1.MAX
+Thu Jan 02 23:11:15 Saved as file BACKUP1.MAX
+Thu Jan 02 23:11:15 Saved as file BACKUP1.MAX
+Thu Jan 02 23:11:15 Saved as file BACKUP1.MAX
+Thu Jan 02 23:11:15 Saved as file BACKUP1.MAX
+Thu Jan 02 23:11:15 Saved as file BACKUP1.MAX
+Thu Jan 02 23:11:15 Saved as file BACKUP1.MAX
+Thu Jan 02 23:11:15 Saved as file BACKUP1.MAX
+Thu Jan 02 23:11:15 Saved as file BACKUP1.MAX
+Thu Jan 02 23:11:15 Saved as file BACKUP1.MAX
+Thu Jan 02 23:11:15 Saved as file BACKUP1.MAX
+Thu Jan 02 23:11:15 Saved as file BACKUP1.MAX
+Thu Jan 02 23:11:15 Saved as file BACKUP1.MAX
+Thu Jan 02 23:11:15 Saved as file BACKUP1.MAX
+Thu Jan 02 23:11:15 Saved as file BACKUP1.MAX
+Thu Jan 02 23:11:15 Saved as file BACKUP1.MAX
+Thu Jan 02 23:11:15 Saved as file BACKUP1.MAX
+Thu Jan 02 23:11:15 Saved as file BACKUP1.MAX
+Thu Jan 02 23:11:15 Saved as file BACKUP1.MAX
+Thu Jan 02 23:11:15 Saved as file BACKUP1.MAX
+Thu Jan 02 23:11:15 Saved as file BACKUP1.MAX
+Thu Jan 02 23:11:28 Saved as file BACKUP1.MAX
+Thu Jan 02 23:11:28 Saved as file BACKUP1.MAX
+Thu Jan 02 23:12:33 Saved as file BACKUP1.MAX
+Thu Jan 02 23:12:33 Saved as file BACKUP1.MAX
+Thu Jan 02 23:12:45 Saved as file BACKUP1.MAX
+Thu Jan 02 23:12:45 Saved as file BACKUP1.MAX
+Thu Jan 02 23:12:45 Saved as file BACKUP1.MAX
+Thu Jan 02 23:12:50 Saved as file BACKUP1.MAX
+Thu Jan 02 23:12:50 Saved as file BACKUP1.MAX
+Thu Jan 02 23:13:10 Saved as file BACKUP1.MAX
+Thu Jan 02 23:13:20 Routed 24 connections in  6.8 minutes.
+Thu Jan 02 23:13:20 Total is now 0 out of 129 (0%).
+Thu Jan 02 23:13:30 Saved as file BACKUP1.MAX
+Thu Jan 02 23:16:22 Saved as file ~undo.max
+Thu Jan 02 23:17:05 Saved as file ~undo.max
+Thu Jan 02 23:17:16 Saved as file ~undo.max
+Thu Jan 02 23:17:36 Saved as file ~undo.max
+Thu Jan 02 23:17:48 Saved as file ~undo.max
+Thu Jan 02 23:17:59 Saved as file ~undo.max
+Thu Jan 02 23:23:25 Saved as file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Thu Jan 02 23:23:25 Saved as file ~undo.max
+Thu Jan 02 23:24:29 Saved as file BACKUP1.MAX
+Thu Jan 02 23:26:30 Saved as file ~undo.max
+Thu Jan 02 23:26:40 Saved as file ~undo.max
+Thu Jan 02 23:28:37 Saved as file ~undo.max
+Thu Jan 02 23:28:42 Saved as file ~undo.max
+Thu Jan 02 23:28:53 Saved as file ~undo.max
+Thu Jan 02 23:29:36 Saved as file ~undo.max
+Thu Jan 02 23:29:46 Saved as file ~undo.max
+Thu Jan 02 23:29:54 Saved as file ~undo.max
+Thu Jan 02 23:30:09 Saved as file ~undo.max
+Thu Jan 02 23:30:31 Saved as file ~undo.max
+Thu Jan 02 23:30:53 Saved as file ~undo.max
+Thu Jan 02 23:32:31 Error code 5255.048 (1836)
+Thu Jan 02 23:32:31 Saved as file Backup0.max
+Thu Jan 02 23:32:31 Windows which were open at time of error:
+Thu Jan 02 23:32:31 	ActiveWindow: &Design
+Thu Jan 02 23:32:31 	Icon: &Components
+Thu Jan 02 23:32:31 	Icon: &Nets
+Thu Jan 02 23:32:31 	Icon: Post Proces&s
+Thu Jan 02 23:32:31 End-of-list
+Thu Jan 02 23:32:31 Loaded file BACKUP0.MAX
+Thu Jan 02 23:33:43 Saved as file ~undo.max
+Thu Jan 02 23:34:31 Saved as file ~undo.max
+Thu Jan 02 23:35:13 Saved as file ~undo.max
+Thu Jan 02 23:36:38 Saved as file ~undo.max
+Thu Jan 02 23:37:16 Saved as file ~undo.max
+Thu Jan 02 23:39:22 Saved as file ~undo.max
+Thu Jan 02 23:39:35 Saved as file ~undo.max
+Thu Jan 02 23:40:26 Saved as file ~undo.max
+Thu Jan 02 23:44:01 Saved as file BACKUP1.MAX
+Thu Jan 02 23:45:50 Saved as file ~undo.max
+Thu Jan 02 23:45:58 Saved as file ~undo.max
+Thu Jan 02 23:46:00 Saved as file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Thu Jan 02 23:46:03 Saved as file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Thu Jan 02 23:46:06 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Thu Jan 02 23:50:07 Saved as file ~undo.max
+Thu Jan 02 23:50:24 Saved as file ~undo.max
+Thu Jan 02 23:51:04 Saved as file ~undo.max
+Thu Jan 02 23:51:33 Saved as file ~undo.max
+Thu Jan 02 23:54:31 Saved as file BACKUP1.MAX
+Thu Jan 02 23:54:43 Saved as file ~undo.max
+Thu Jan 02 23:55:07 Saved as file ~undo.max
+Thu Jan 02 23:56:01 Saved as file ~undo.max
+Thu Jan 02 23:57:02 Saved as file ~undo.max
+Thu Jan 02 23:57:17 Saved as file ~undo.max
+Thu Jan 02 23:57:44 Saved as file ~undo.max
+Thu Jan 02 23:58:30 Saved as file ~undo.max
+Thu Jan 02 23:58:55 Saved as file ~undo.max
+Thu Jan 02 23:59:52 Saved as file ~undo.max
+Thu Jan 02 23:59:55 Saved as file ~undo.max
+Thu Jan 02 23:59:59 Saved as file ~undo.max
+Fri Jan 03 00:00:32 Saved as file ~undo.max
+Fri Jan 03 00:01:08 Error code 5255.048 (1836)
+Fri Jan 03 00:01:08 Saved as file Backup0.max
+Fri Jan 03 00:01:08 Windows which were open at time of error:
+Fri Jan 03 00:01:08 	ActiveWindow: &Design
+Fri Jan 03 00:01:08 	Icon: &Components
+Fri Jan 03 00:01:08 	Icon: &Nets
+Fri Jan 03 00:01:08 	Icon: Post Proces&s
+Fri Jan 03 00:01:08 End-of-list
+Fri Jan 03 00:01:08 Loaded file BACKUP0.MAX
+Fri Jan 03 00:01:12 Saved as file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Fri Jan 03 00:01:13 Saved as file ~undo.max
+Fri Jan 03 00:02:09 Saved as file ~undo.max
+Fri Jan 03 00:02:12 Saved as file ~undo.max
+Fri Jan 03 00:02:44 Saved as file ~undo.max
+Fri Jan 03 00:03:54 Saved as file ~undo.max
+Fri Jan 03 00:04:03 Saved as file ~undo.max
+Fri Jan 03 00:04:30 Saved as file ~undo.max
+Fri Jan 03 00:04:37 Saved as file ~undo.max
+Fri Jan 03 00:07:15 Saved as file ~undo.max
+Fri Jan 03 00:07:25 Saved as file ~undo.max
+Fri Jan 03 00:07:51 Saved as file ~undo.max
+Fri Jan 03 00:11:08 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT\data\template.imp
+Fri Jan 03 00:11:08 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT\data\template.imp
+Fri Jan 03 00:11:09 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\LAYOUT LIBRARY 02.LLB
+Fri Jan 03 00:11:11 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\PIF.LLB
+Fri Jan 03 00:11:14 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT\data\template.imp
+Fri Jan 03 00:11:38 Saved as file BACKUP1.MAX
+Fri Jan 03 00:13:14 Saved as file ~undo.max
+Fri Jan 03 00:13:34 Saved as file ~undo.max
+Fri Jan 03 00:14:47 Saved as file ~undo.max
+Fri Jan 03 00:16:37 Saved as file ~undo.max
+Fri Jan 03 00:16:55 Saved as file ~undo.max
+Fri Jan 03 00:19:44 Saved as file ~undo.max
+Fri Jan 03 00:19:59 Saved as file ~undo.max
+Fri Jan 03 00:20:37 Saved as file ~undo.max
+Fri Jan 03 00:20:59 Saved as file ~undo.max
+Fri Jan 03 00:21:08 Saved as file ~undo.max
+Fri Jan 03 00:22:08 Saved as file BACKUP1.MAX
+Fri Jan 03 00:22:52 Saved as file ~undo.max
+Fri Jan 03 00:23:14 Saved as file ~undo.max
+Fri Jan 03 00:23:24 Saved as file ~undo.max
+Fri Jan 03 00:25:08 Saved as file ~undo.max
+Fri Jan 03 00:25:53 Saved as file ~undo.max
+Fri Jan 03 00:27:00 Saved as file ~undo.max
+Fri Jan 03 00:28:57 Saved as file ~undo.max
+Fri Jan 03 00:30:08 Saved as file ~undo.max
+Fri Jan 03 00:30:12 Saved as file ~undo2.max
+Fri Jan 03 00:30:12 Loaded file ~undo.max
+Fri Jan 03 00:30:35 Saved as file ~undo.max
+Fri Jan 03 00:32:32 Saved as file ~undo.max
+Fri Jan 03 00:32:38 Saved as file BACKUP1.MAX
+Fri Jan 03 00:33:55 Saved as file ~undo.max
+Fri Jan 03 00:34:20 Saved as file ~undo.max
+Fri Jan 03 00:34:35 Saved as file ~undo.max
+Fri Jan 03 00:35:07 Saved as file ~undo.max
+Fri Jan 03 00:36:02 Saved as file ~undo.max
+Fri Jan 03 00:36:56 Saved as file ~undo.max
+Fri Jan 03 00:38:37 Saved as file ~undo.max
+Fri Jan 03 00:39:00 Saved as file ~undo.max
+Fri Jan 03 00:39:23 Saved as file ~undo.max
+Fri Jan 03 00:40:09 Saved as file ~undo.max
+Fri Jan 03 00:41:07 Saved as file ~undo.max
+Fri Jan 03 00:43:03 Saved as file ~undo.max
+Fri Jan 03 00:43:08 Saved as file BACKUP1.MAX
+Fri Jan 03 00:43:19 Saved as file ~undo.max
+Fri Jan 03 00:44:41 Saved as file ~undo.max
+Fri Jan 03 00:44:53 Saved as file ~undo.max
+Fri Jan 03 00:45:10 Saved as file ~undo.max
+Fri Jan 03 00:45:12 Saved as file ~undo.max
+Fri Jan 03 00:45:41 Saved as file ~undo.max
+Fri Jan 03 00:45:42 Saved as file ~undo.max
+Fri Jan 03 00:45:51 Saved as file ~undo.max
+Fri Jan 03 00:47:14 Saved as file ~undo.max
+Fri Jan 03 00:47:31 Saved as file ~undo.max
+Fri Jan 03 00:48:04 Saved as file ~undo.max
+Fri Jan 03 00:48:29 Saved as file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Fri Jan 03 00:48:30 Saved as file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Fri Jan 03 00:49:06 Saved as file ~undo.max
+Fri Jan 03 00:49:37 Saved as file ~undo.max
+Fri Jan 03 00:50:31 Saved as file ~undo.max
+Fri Jan 03 00:51:48 Saved as file ~undo.max
+Fri Jan 03 00:51:53 Saved as file ~undo.max
+Fri Jan 03 00:52:39 Saved as file ~undo.max
+Fri Jan 03 00:53:09 Saved as file ~undo.max
+Fri Jan 03 00:53:29 Saved as file ~undo.max
+Fri Jan 03 00:53:38 Saved as file BACKUP1.MAX
+Fri Jan 03 00:54:01 Saved as file ~undo.max
+Fri Jan 03 00:55:02 Saved as file ~undo.max
+Fri Jan 03 00:55:38 Saved as file ~undo.max
+Fri Jan 03 00:55:51 Saved as file ~undo.max
+Fri Jan 03 00:56:33 Saved as file ~undo.max
+Fri Jan 03 00:56:57 Saved as file ~undo.max
+Fri Jan 03 00:57:18 Saved as file ~undo.max
+Fri Jan 03 00:57:37 Saved as file ~undo.max
+Fri Jan 03 00:58:23 Saved as file ~undo.max
+Fri Jan 03 00:58:28 Saved as file ~undo.max
+Fri Jan 03 00:58:33 Saved as file ~undo.max
+Fri Jan 03 00:58:38 Saved as file ~undo.max
+Fri Jan 03 00:59:07 Saved as file ~undo.max
+Fri Jan 03 00:59:12 Saved as file ~undo.max
+Fri Jan 03 00:59:27 Saved as file ~undo.max
+Fri Jan 03 00:59:40 Saved as file ~undo.max
+Fri Jan 03 01:00:09 Saved as file ~undo.max
+Fri Jan 03 01:04:45 Saved as file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Fri Jan 03 01:05:05 Saved as file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Fri Jan 03 01:05:08 Saved as file BACKUP1.MAX
+Fri Jan 03 01:07:43 Saved as file ~undo.max
+Fri Jan 03 01:10:45 Saved as file ~undo.max
+Fri Jan 03 01:11:30 Saved as file ~undo.max
+Fri Jan 03 01:12:31 Saved as file ~undo.max
+Fri Jan 03 01:12:36 Saved as file ~undo.max
+Fri Jan 03 01:13:28 Saved as file ~undo.max
+Fri Jan 03 01:14:08 Saved as file ~undo.max
+Fri Jan 03 01:14:16 Saved as file ~undo.max
+Fri Jan 03 01:14:20 Saved as file ~undo.max
+Fri Jan 03 01:14:37 Saved as file ~undo.max
+Fri Jan 03 01:14:40 Saved as file ~undo.max
+Fri Jan 03 01:14:46 Saved as file ~undo.max
+Fri Jan 03 01:14:54 Saved as file ~undo.max
+Fri Jan 03 01:17:38 Saved as file BACKUP1.MAX
+Fri Jan 03 01:19:51 Saved as file ~undo.max
+Fri Jan 03 01:20:37 Saved as file ~undo.max
+Fri Jan 03 01:20:40 Saved as file ~undo.max
+Fri Jan 03 01:20:47 Saved as file ~undo.max
+Fri Jan 03 01:21:13 Saved as file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Fri Jan 03 01:23:03 Saved as file ~undo.max
+Fri Jan 03 01:23:18 Saved as file ~undo.max
+Fri Jan 03 01:23:26 Saved as file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Fri Jan 03 01:28:54 Saved as file ~undo.max
+Fri Jan 03 01:29:53 Saved as file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Fri Jan 03 01:31:08 Saved as file BACKUP1.MAX
+Fri Jan 03 01:32:47 Saved as file ~undo.max
+Fri Jan 03 01:33:41 Saved as file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Fri Jan 03 01:41:22 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Fri Jan 03 01:42:32 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT\data\template.imp
+Fri Jan 03 01:42:32 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT\data\template.imp
+Fri Jan 03 01:42:33 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\LAYOUT LIBRARY 05.LLB
+Fri Jan 03 01:42:35 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\HIEU'S LIB\PIF.LLB
+Fri Jan 03 01:42:37 Loaded file E:\DATA\PROGRAMFILES\ORCAD\LAYOUT\data\template.imp
+Fri Jan 03 01:43:14 Saved as file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Fri Jan 03 01:43:33 Saved as file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Fri Jan 03 01:44:08 Saved as file BACKUP1.MAX
+Fri Jan 03 01:45:18 Saved as file ~undo.max
+Fri Jan 03 01:45:42 Saved as file ~undo.max
+Fri Jan 03 01:46:01 Saved as file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Fri Jan 03 01:52:22 Saved as file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Fri Jan 03 02:47:10 Merge file: Starting (copy all comps)
+Fri Jan 03 02:47:10 Merge file: Loading merge file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555 - COPY.MAX
+Fri Jan 03 02:47:10 Merge file: Component 55 copied and renamed to 55000
+Fri Jan 03 02:47:10 Merge file: Component 56 copied and renamed to 56000
+Fri Jan 03 02:47:10 Merge file: Component 57 copied and renamed to 57000
+Fri Jan 03 02:47:10 Merge file: Component 58 copied and renamed to 58000
+Fri Jan 03 02:47:10 Merge file: Component 59 copied and renamed to 59000
+Fri Jan 03 02:47:10 Merge file: Component 60 copied and renamed to 60000
+Fri Jan 03 02:47:10 Merge file: Component 61 copied and renamed to 61000
+Fri Jan 03 02:47:10 Merge file: Component 62 copied and renamed to 62000
+Fri Jan 03 02:47:10 Merge file: Component 63 copied and renamed to 63000
+Fri Jan 03 02:47:10 Merge file: Component 64 copied and renamed to 64000
+Fri Jan 03 02:47:10 Merge file: Component 65 copied and renamed to 65000
+Fri Jan 03 02:47:10 Merge file: Component 66 copied and renamed to 66000
+Fri Jan 03 02:47:10 Merge file: Component 67 copied and renamed to 67000
+Fri Jan 03 02:47:10 Merge file: Component 68 copied and renamed to 68000
+Fri Jan 03 02:47:10 Merge file: Component 69 copied and renamed to 69000
+Fri Jan 03 02:47:10 Merge file: Component 70 copied and renamed to 70000
+Fri Jan 03 02:47:10 Merge file: Component 71 copied and renamed to 71000
+Fri Jan 03 02:47:10 Merge file: Component 72 copied and renamed to 72000
+Fri Jan 03 02:47:10 Merge file: Component 73 copied and renamed to 73000
+Fri Jan 03 02:47:10 Merge file: Component 74 copied and renamed to 74000
+Fri Jan 03 02:47:10 Merge file: Component 75 copied and renamed to 75000
+Fri Jan 03 02:47:10 Merge file: Component 76 copied and renamed to 76000
+Fri Jan 03 02:47:10 Merge file: Component C1 copied and renamed to C1000
+Fri Jan 03 02:47:10 Merge file: Component C2 copied and renamed to C2000
+Fri Jan 03 02:47:10 Merge file: Component C7 copied and renamed to C7000
+Fri Jan 03 02:47:10 Merge file: Component C8 copied and renamed to C8000
+Fri Jan 03 02:47:10 Merge file: Component C9 copied and renamed to C9000
+Fri Jan 03 02:47:10 Merge file: Component C10 copied and renamed to C10000
+Fri Jan 03 02:47:10 Merge file: Component C11 copied and renamed to C11000
+Fri Jan 03 02:47:10 Merge file: Component J2 copied and renamed to J2000
+Fri Jan 03 02:47:10 Merge file: Component J3 copied and renamed to J3000
+Fri Jan 03 02:47:10 Merge file: Component J4 copied and renamed to J4000
+Fri Jan 03 02:47:10 Merge file: Component J7 copied and renamed to J7000
+Fri Jan 03 02:47:10 Merge file: Component J8 copied and renamed to J8000
+Fri Jan 03 02:47:10 Merge file: Component J10 copied and renamed to J10000
+Fri Jan 03 02:47:10 Merge file: Component KHOI DONG copied and renamed to KHOI DONG000
+Fri Jan 03 02:47:10 Merge file: Component NGUON copied and renamed to NGUON000
+Fri Jan 03 02:47:10 Merge file: Component PIN copied and renamed to PIN000
+Fri Jan 03 02:47:10 Merge file: Component R1 copied and renamed to R1000
+Fri Jan 03 02:47:10 Merge file: Component R2 copied and renamed to R2000
+Fri Jan 03 02:47:10 Merge file: Component R3 copied and renamed to R3000
+Fri Jan 03 02:47:10 Merge file: Component R4 copied and renamed to R4000
+Fri Jan 03 02:47:10 Merge file: Component R5 copied and renamed to R5000
+Fri Jan 03 02:47:10 Merge file: Component R6 copied and renamed to R6000
+Fri Jan 03 02:47:10 Merge file: Component R7 copied and renamed to R7000
+Fri Jan 03 02:47:10 Merge file: Component R8 copied and renamed to R8000
+Fri Jan 03 02:47:10 Merge file: Component R9 copied and renamed to R9000
+Fri Jan 03 02:47:10 Merge file: Component R10 copied and renamed to R10000
+Fri Jan 03 02:47:10 Merge file: Component R11 copied and renamed to R11000
+Fri Jan 03 02:47:10 Merge file: Component R12 copied and renamed to R12000
+Fri Jan 03 02:47:10 Merge file: Component R13 copied and renamed to R13000
+Fri Jan 03 02:47:10 Merge file: Component R14 copied and renamed to R14000
+Fri Jan 03 02:47:10 Merge file: Component R15 copied and renamed to R15000
+Fri Jan 03 02:47:10 Merge file: Component R16 copied and renamed to R16000
+Fri Jan 03 02:47:10 Merge file: Component R17 copied and renamed to R17000
+Fri Jan 03 02:47:10 Merge file: Component R18 copied and renamed to R18000
+Fri Jan 03 02:47:10 Merge file: Component R19 copied and renamed to R19000
+Fri Jan 03 02:47:10 Merge file: Component R20 copied and renamed to R20000
+Fri Jan 03 02:47:10 Merge file: Component R21 copied and renamed to R21000
+Fri Jan 03 02:47:10 Merge file: Component R22 copied and renamed to R22000
+Fri Jan 03 02:47:10 Merge file: Component R23 copied and renamed to R23000
+Fri Jan 03 02:47:10 Merge file: Component R24 copied and renamed to R24000
+Fri Jan 03 02:47:10 Merge file: Component R25 copied and renamed to R25000
+Fri Jan 03 02:47:10 Merge file: Component R26 copied and renamed to R26000
+Fri Jan 03 02:47:10 Merge file: Component R27 copied and renamed to R27000
+Fri Jan 03 02:47:10 Merge file: Component R28 copied and renamed to R28000
+Fri Jan 03 02:47:10 Merge file: Component R29 copied and renamed to R29000
+Fri Jan 03 02:47:10 Merge file: Component R30 copied and renamed to R30000
+Fri Jan 03 02:47:10 Merge file: Component R31 copied and renamed to R31000
+Fri Jan 03 02:47:10 Merge file: Component R32 copied and renamed to R32000
+Fri Jan 03 02:47:10 Merge file: Component RESET copied and renamed to RESET000
+Fri Jan 03 02:47:10 Merge file: Component SW1 copied and renamed to SW1000
+Fri Jan 03 02:47:10 Merge file: Component U1 copied and renamed to U1000
+Fri Jan 03 02:47:10 Merge file: Component ULN2803 copied and renamed to ULN2803000
+Fri Jan 03 02:47:10 Merge file: Component Y1 copied and renamed to Y1000
+Fri Jan 03 02:47:10 Merge file: Net +5V merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net 0 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N08816 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N08853 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N08890 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N09603 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N09642 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N09681 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N09720 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N15988 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N16039 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N19848 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N19957 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N21663 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N21805 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N21996 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N22089 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N22231 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N25690 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N26620 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N26988 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N28421 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N29314 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N29793 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N32064 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N32117 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N32170 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N32223 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N32276 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N32329 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N33705 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N33758 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N33811 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N33864 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N33970 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N34023 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N34076 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N43240 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N55367 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N61263 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N61316 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N62232 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N63189 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N70247 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N70418 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N70788 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N75563 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N75638 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N75713 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N75788 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N75863 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N75938 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N76013 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N79493 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N93573 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N93650 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N93727 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N93804 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N93881 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N93993 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N94301 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N100161 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N100175 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N100189 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N100203 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N100504 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N100601 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N100709 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N100764 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N100819 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N100874 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N100929 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N100984 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N115689 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N128535 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N1029410 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N134876 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N134880 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N134884 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N134888 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N134892 merged into existing net
+Fri Jan 03 02:47:10 Merge file: Net N173409 merged into existing net
+Fri Jan 03 02:47:10 Loaded file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555 - COPY.MAX
+Fri Jan 03 02:47:10 Merge file: Complete
+Fri Jan 03 02:48:23 Saved as file ~undo.max
+Fri Jan 03 02:49:51 Saved as file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555.MAX
+Fri Jan 03 02:51:38 Saved as file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555DB.MAX
+Fri Jan 03 02:53:10 Saved as file D:\PROJECTS\LED CUBE\ORCAD\ORCAD\MAIN\555DB.MAX
+Sat Jan 04 20:58:03 Saved as file BACKUP1.MAX
+Sat Jan 04 21:08:33 Saved as file BACKUP1.MAX
+Sat Jan 04 21:19:03 Saved as file BACKUP1.MAX
+Sat Jan 04 21:29:33 Saved as file BACKUP1.MAX
+Sat Jan 04 21:40:03 Saved as file BACKUP1.MAX
+Sat Jan 04 21:50:33 Saved as file BACKUP1.MAX
+Sat Jan 04 22:01:03 Saved as file BACKUP1.MAX
+Sat Jan 04 22:11:33 Saved as file BACKUP1.MAX
+Sat Jan 04 22:22:03 Saved as file BACKUP1.MAX
+Sat Jan 04 22:32:33 Saved as file BACKUP1.MAX
+Sat Jan 04 22:43:03 Saved as file BACKUP1.MAX
+Sat Jan 04 22:53:33 Saved as file BACKUP1.MAX
+Sat Jan 04 23:04:03 Saved as file BACKUP1.MAX
+Sat Jan 04 23:14:33 Saved as file BACKUP1.MAX
+Sat Jan 04 23:25:03 Saved as file BACKUP1.MAX
+Sat Jan 04 23:35:33 Saved as file BACKUP1.MAX
+Sat Jan 04 23:46:03 Saved as file BACKUP1.MAX
+Sat Jan 04 23:56:33 Saved as file BACKUP1.MAX
+Sun Jan 05 00:07:03 Saved as file BACKUP1.MAX
+Sun Mar 02 21:27:56 Saved as file BACKUP1.MAX
+Sun Mar 02 21:27:56 Saved as file D:\PROJECTS\VI XU LY\ORCAD\ORCAD\MAIN\555.MAX
+Sun Mar 02 21:27:56 UserDiv from Layout.INI for AutoECO: 60
+Sun Mar 02 21:27:56 Loaded file D:\PROJECTS\VI XU LY\ORCAD\ORCAD\MAIN\555.MAX
+Sun Mar 02 21:27:56 Loaded file C:\USERS\LE VUONG\DESKTOP\THU VIEN ORCAD FULL\THU VIEN LAYOUT BETA 3.LLB
+Sun Mar 02 21:27:56 Loaded file C:\USERS\LE VUONG\DESKTOP\THU VIEN ORCAD FULL\THU VIEN TRANS.LLB
+Sun Mar 02 21:27:56 Loaded file C:\USERS\LE VUONG\DESKTOP\THU VIEN ORCAD FULL\THU VIEN.LLB
+Sun Mar 02 21:27:56 Loaded file D:\PROJECTS\VI XU LY\DONG HO - EM\ORCAD\FOOTPRINT\9. [C8] PAYITFORWARD_FOOTPRINT_24022013.LLB
+Sun Mar 02 21:27:56 Loaded file D:\PROJECTS\VI XU LY\ORCAD\USBASP\PIF.LLB
+Sun Mar 02 21:27:56 Loaded file e:\data\programfiles\ORCAD\Layout\library\BCON100T.llb
+Sun Mar 02 21:27:56 Loaded file e:\data\programfiles\ORCAD\Layout\library\BCON156T.llb
+Sun Mar 02 21:27:56 Loaded file e:\data\programfiles\ORCAD\Layout\library\BGA.llb
+Sun Mar 02 21:27:56 Loaded file e:\data\programfiles\ORCAD\Layout\library\CLCC.llb
+Sun Mar 02 21:27:56 Loaded file e:\data\programfiles\ORCAD\Layout\library\DCON050T.llb
+Sun Mar 02 21:27:56 Loaded file e:\data\programfiles\ORCAD\Layout\library\DCON085T.llb
+Sun Mar 02 21:27:56 Loaded file e:\data\programfiles\ORCAD\Layout\library\DIMM050F.llb
+Sun Mar 02 21:27:56 Loaded file e:\data\programfiles\ORCAD\Layout\library\DIMM050T.llb
+Sun Mar 02 21:27:56 Loaded file e:\data\programfiles\ORCAD\Layout\library\DIN.llb
+Sun Mar 02 21:27:56 Loaded file e:\data\programfiles\ORCAD\Layout\library\DIP100B.llb
+Sun Mar 02 21:27:56 Loaded file e:\data\programfiles\ORCAD\Layout\library\DIP100T.llb
+Sun Mar 02 21:27:56 Loaded file e:\data\programfiles\ORCAD\Layout\library\DSUBT.llb
+Sun Mar 02 21:27:56 Loaded file e:\data\programfiles\ORCAD\Layout\library\DSUBT_HD.LLB
+Sun Mar 02 21:27:56 Loaded file e:\data\programfiles\ORCAD\Layout\library\ECON100T.llb
+Sun Mar 02 21:27:56 Loaded file e:\data\programfiles\ORCAD\Layout\library\FBUS.llb
+Sun Mar 02 21:27:56 Loaded file e:\data\programfiles\ORCAD\Layout\library\ISA.llb
+Sun Mar 02 21:27:56 Loaded file e:\data\programfiles\ORCAD\Layout\library\JUMPER.LLB
+Sun Mar 02 21:27:56 Loaded file e:\data\programfiles\ORCAD\Layout\library\LAYOUT.llb
+Sun Mar 02 21:27:56 Loaded file e:\data\programfiles\ORCAD\Layout\library\LCON100T.llb
+Sun Mar 02 21:27:56 Loaded file e:\data\programfiles\ORCAD\Layout\library\PC104.llb
+Sun Mar 02 21:27:56 Loaded file e:\data\programfiles\ORCAD\Layout\library\PCI.llb
+Sun Mar 02 21:27:56 Loaded file e:\data\programfiles\ORCAD\Layout\library\PCON100T.llb
+Sun Mar 02 21:27:56 Loaded file e:\data\programfiles\ORCAD\Layout\library\PCON156T.llb
+Sun Mar 02 21:27:56 Loaded file e:\data\programfiles\ORCAD\Layout\library\PGA.llb
+Sun Mar 02 21:27:56 Loaded file e:\data\programfiles\ORCAD\Layout\library\PLCC.llb
+Sun Mar 02 21:27:56 Loaded file e:\data\programfiles\ORCAD\Layout\library\QUAD.llb
+Sun Mar 02 21:27:56 Loaded file e:\data\programfiles\ORCAD\Layout\library\QUADB.llb
+Sun Mar 02 21:27:57 Loaded file e:\data\programfiles\ORCAD\Layout\library\RELAY.llb
+Sun Mar 02 21:27:57 Loaded file e:\data\programfiles\ORCAD\Layout\library\RF.llb
+Sun Mar 02 21:27:57 Loaded file e:\data\programfiles\ORCAD\Layout\library\SBUS.llb
+Sun Mar 02 21:27:57 Loaded file e:\data\programfiles\ORCAD\Layout\library\SIMM050F.llb
+Sun Mar 02 21:27:57 Loaded file e:\data\programfiles\ORCAD\Layout\library\SIMM050T.llb
+Sun Mar 02 21:27:57 Loaded file e:\data\programfiles\ORCAD\Layout\library\SIMM100F.llb
+Sun Mar 02 21:27:57 Loaded file e:\data\programfiles\ORCAD\Layout\library\SIMM100T.llb
+Sun Mar 02 21:27:57 Loaded file e:\data\programfiles\ORCAD\Layout\library\SIP.llb
+Sun Mar 02 21:27:57 Loaded file e:\data\programfiles\ORCAD\Layout\library\SM.llb
+Sun Mar 02 21:27:57 Loaded file e:\data\programfiles\ORCAD\Layout\library\SOG.llb
+Sun Mar 02 21:27:57 Loaded file e:\data\programfiles\ORCAD\Layout\library\SOJ.llb
+Sun Mar 02 21:27:57 Loaded file e:\data\programfiles\ORCAD\Layout\library\STIFF.llb
+Sun Mar 02 21:27:57 Loaded file e:\data\programfiles\ORCAD\Layout\library\TELE.llb
+Sun Mar 02 21:27:57 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_AXIAL.llb
+Sun Mar 02 21:27:57 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_CAP_P.llb
+Sun Mar 02 21:27:57 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_CYLND.llb
+Sun Mar 02 21:27:57 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_DIODE.llb
+Sun Mar 02 21:27:57 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_DISC.llb
+Sun Mar 02 21:27:57 Loaded file e:\data\programfiles\ORCAD\Layout\library\TM_RAD.llb
+Sun Mar 02 21:27:57 Loaded file e:\data\programfiles\ORCAD\Layout\library\TO.llb
+Sun Mar 02 21:27:57 Loaded file e:\data\programfiles\ORCAD\Layout\library\TRAINING.LLB
+Sun Mar 02 21:27:57 Loaded file e:\data\programfiles\ORCAD\Layout\library\VRES.llb
+Sun Mar 02 21:27:57 Loaded file e:\data\programfiles\ORCAD\Layout\library\WCON100T.llb
+Sun Mar 02 21:27:57 Loaded file e:\data\programfiles\ORCAD\Layout\library\XT.llb
+Sun Mar 02 21:27:57 Loaded file e:\data\programfiles\ORCAD\Layout\library\ZIGZAG.llb
+Sun Mar 02 21:27:57 Saved as file D:\PROJECTS\VI XU LY\ORCAD\ORCAD\MAIN\555.MAX
+Sun Mar 02 21:27:58 Loaded file D:\PROJECTS\VI XU LY\ORCAD\ORCAD\MAIN\555.MAX
+Mon Mar 03 00:29:54 Saved as file BACKUP1.MAX
+Mon Mar 03 00:29:58 Merge file: Starting (copy all comps)
+Mon Mar 03 00:29:58 Merge file: Loading merge file D:\PROJECTS\VI XU LY\ORCAD\ORCAD\MAIN\555 - COPY.MAX
+Mon Mar 03 00:29:58 Merge file: Component 55 copied and renamed to 55000
+Mon Mar 03 00:29:58 Merge file: Component 56 copied and renamed to 56000
+Mon Mar 03 00:29:58 Merge file: Component 57 copied and renamed to 57000
+Mon Mar 03 00:29:58 Merge file: Component 58 copied and renamed to 58000
+Mon Mar 03 00:29:58 Merge file: Component 59 copied and renamed to 59000
+Mon Mar 03 00:29:58 Merge file: Component 60 copied and renamed to 60000
+Mon Mar 03 00:29:58 Merge file: Component 61 copied and renamed to 61000
+Mon Mar 03 00:29:58 Merge file: Component 62 copied and renamed to 62000
+Mon Mar 03 00:29:58 Merge file: Component 63 copied and renamed to 63000
+Mon Mar 03 00:29:58 Merge file: Component 64 copied and renamed to 64000
+Mon Mar 03 00:29:58 Merge file: Component 65 copied and renamed to 65000
+Mon Mar 03 00:29:58 Merge file: Component 66 copied and renamed to 66000
+Mon Mar 03 00:29:58 Merge file: Component 67 copied and added
+Mon Mar 03 00:29:58 Merge file: Component 68 copied and added
+Mon Mar 03 00:29:58 Merge file: Component 69 copied and added
+Mon Mar 03 00:29:58 Merge file: Component 70 copied and added
+Mon Mar 03 00:29:58 Merge file: Component 71 copied and added
+Mon Mar 03 00:29:58 Merge file: Component 72 copied and added
+Mon Mar 03 00:29:58 Merge file: Component 73 copied and added
+Mon Mar 03 00:29:58 Merge file: Component 74 copied and added
+Mon Mar 03 00:29:58 Merge file: Component 75 copied and added
+Mon Mar 03 00:29:58 Merge file: Component 76 copied and added
+Mon Mar 03 00:29:58 Merge file: Component C1 copied and added
+Mon Mar 03 00:29:58 Merge file: Component C2 copied and added
+Mon Mar 03 00:29:58 Merge file: Component C7 copied and added
+Mon Mar 03 00:29:58 Merge file: Component C8 copied and added
+Mon Mar 03 00:29:58 Merge file: Component C9 copied and added
+Mon Mar 03 00:29:58 Merge file: Component C10 copied and added
+Mon Mar 03 00:29:58 Merge file: Component C11 copied and added
+Mon Mar 03 00:29:58 Merge file: Component J2 copied and renamed to J2000
+Mon Mar 03 00:29:58 Merge file: Component J3 copied and renamed to J3000
+Mon Mar 03 00:29:58 Merge file: Component J4 copied and added
+Mon Mar 03 00:29:58 Merge file: Component J7 copied and added
+Mon Mar 03 00:29:58 Merge file: Component J8 copied and added
+Mon Mar 03 00:29:58 Merge file: Component J10 copied and added
+Mon Mar 03 00:29:58 Merge file: Component KHOI DONG copied and added
+Mon Mar 03 00:29:58 Merge file: Component NGUON copied and added
+Mon Mar 03 00:29:58 Merge file: Component PIN copied and added
+Mon Mar 03 00:29:58 Merge file: Component R1 copied and renamed to R1000
+Mon Mar 03 00:29:58 Merge file: Component R2 copied and renamed to R2000
+Mon Mar 03 00:29:58 Merge file: Component R3 copied and added
+Mon Mar 03 00:29:58 Merge file: Component R4 copied and added
+Mon Mar 03 00:29:58 Merge file: Component R5 copied and added
+Mon Mar 03 00:29:58 Merge file: Component R6 copied and added
+Mon Mar 03 00:29:58 Merge file: Component R7 copied and added
+Mon Mar 03 00:29:58 Merge file: Component R8 copied and added
+Mon Mar 03 00:29:58 Merge file: Component R9 copied and added
+Mon Mar 03 00:29:58 Merge file: Component R10 copied and added
+Mon Mar 03 00:29:58 Merge file: Component R11 copied and added
+Mon Mar 03 00:29:58 Merge file: Component R12 copied and added
+Mon Mar 03 00:29:58 Merge file: Component R13 copied and added
+Mon Mar 03 00:29:58 Merge file: Component R14 copied and added
+Mon Mar 03 00:29:58 Merge file: Component R15 copied and added
+Mon Mar 03 00:29:58 Merge file: Component R16 copied and added
+Mon Mar 03 00:29:58 Merge file: Component R17 copied and added
+Mon Mar 03 00:29:58 Merge file: Component R18 copied and added
+Mon Mar 03 00:29:58 Merge file: Component R19 copied and added
+Mon Mar 03 00:29:58 Merge file: Component R20 copied and added
+Mon Mar 03 00:29:58 Merge file: Component R21 copied and added
+Mon Mar 03 00:29:58 Merge file: Component R22 copied and added
+Mon Mar 03 00:29:58 Merge file: Component R23 copied and added
+Mon Mar 03 00:29:58 Merge file: Component R24 copied and added
+Mon Mar 03 00:29:58 Merge file: Component R25 copied and added
+Mon Mar 03 00:29:58 Merge file: Component R26 copied and added
+Mon Mar 03 00:29:58 Merge file: Component R27 copied and added
+Mon Mar 03 00:29:58 Merge file: Component R28 copied and added
+Mon Mar 03 00:29:58 Merge file: Component R29 copied and added
+Mon Mar 03 00:29:58 Merge file: Component R30 copied and added
+Mon Mar 03 00:29:58 Merge file: Component R31 copied and added
+Mon Mar 03 00:29:58 Merge file: Component R32 copied and added
+Mon Mar 03 00:29:58 Merge file: Component RESET copied and added
+Mon Mar 03 00:29:58 Merge file: Component SW1 copied and added
+Mon Mar 03 00:29:58 Merge file: Component U1 copied and renamed to U1000
+Mon Mar 03 00:29:58 Merge file: Component ULN2803 copied and added
+Mon Mar 03 00:29:58 Merge file: Component Y1 copied and added
+Mon Mar 03 00:29:58 Merge file: Net +5V copied and added
+Mon Mar 03 00:29:58 Merge file: Net 0 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N08816 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N08853 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N08890 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N09603 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N09642 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N09681 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N09720 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N15988 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N16039 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N19848 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N19957 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N21663 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N21805 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N21996 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N22089 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N22231 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N25690 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N26620 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N26988 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N28421 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N29314 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N29793 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N32064 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N32117 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N32170 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N32223 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N32276 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N32329 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N33705 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N33758 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N33811 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N33864 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N33970 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N34023 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N34076 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N43240 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N55367 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N61263 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N61316 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N62232 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N63189 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N70247 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N70418 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N70788 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N75563 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N75638 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N75713 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N75788 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N75863 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N75938 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N76013 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N79493 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N93573 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N93650 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N93727 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N93804 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N93881 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N93993 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N94301 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N100161 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N100175 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N100189 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N100203 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N100504 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N100601 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N100709 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N100764 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N100819 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N100874 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N100929 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N100984 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N115689 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N128535 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N1029410 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N134876 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N134880 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N134884 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N134888 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N134892 copied and added
+Mon Mar 03 00:29:58 Merge file: Net N173409 copied and added
+Mon Mar 03 00:29:58 Loaded file D:\PROJECTS\VI XU LY\ORCAD\ORCAD\MAIN\555 - COPY.MAX
+Mon Mar 03 00:29:58 Merge file: Complete
+Fri Jul 11 22:56:08 Saved as file BACKUP1.MAX
+Fri Jul 11 22:56:08 Saved as file D:\PROJECTS\VI XU LY\AVR\LED CUBE\5X5X5\MACH ORCAD\MAIN\555.MAX
+Fri Jul 11 22:56:08 UserDiv from Layout.INI for AutoECO: 60
+Fri Jul 11 22:56:08 Loaded file D:\PROJECTS\VI XU LY\AVR\LED CUBE\5X5X5\MACH ORCAD\MAIN\555.MAX
+Fri Jul 11 22:56:08 Loaded file D:\PROJECTS\VI XU LY\ORCAD\THU VIEN SUU TAM\THU VIEN ORCAD FULL\THU VIEN LAYOUT BETA 3.LLB
+Fri Jul 11 22:56:08 Loaded file D:\PROJECTS\VI XU LY\ORCAD\THU VIEN SUU TAM\THU VIEN ORCAD FULL\THU VIEN TRANS.LLB
+Fri Jul 11 22:56:08 Loaded file D:\PROJECTS\VI XU LY\ORCAD\THU VIEN SUU TAM\THU VIEN ORCAD FULL\THU VIEN.LLB
+Fri Jul 11 22:56:08 Loaded file D:\PROJECTS\VI XU LY\ORCAD\THU VIEN SUU TAM\LIB\VUONG.LLB
+Fri Jul 11 22:56:08 Loaded file D:\PROJECTS\VI XU LY\ORCAD\THU VIEN SUU TAM\FOOTPRINT\9. [C8] PAYITFORWARD_FOOTPRINT_24022013.LLB
+Fri Jul 11 22:56:08 Loaded file C:\Program Files\Orcad\Layout\library\BCON100T.llb
+Fri Jul 11 22:56:08 Loaded file C:\Program Files\Orcad\Layout\library\BCON156T.llb
+Fri Jul 11 22:56:08 Loaded file C:\Program Files\Orcad\Layout\library\BGA.llb
+Fri Jul 11 22:56:08 Loaded file C:\Program Files\Orcad\Layout\library\CLCC.llb
+Fri Jul 11 22:56:08 Loaded file C:\Program Files\Orcad\Layout\library\DCON050T.llb
+Fri Jul 11 22:56:08 Loaded file C:\Program Files\Orcad\Layout\library\DCON085T.llb
+Fri Jul 11 22:56:08 Loaded file C:\Program Files\Orcad\Layout\library\DIMM050F.llb
+Fri Jul 11 22:56:08 Loaded file C:\Program Files\Orcad\Layout\library\DIMM050T.llb
+Fri Jul 11 22:56:09 Loaded file C:\Program Files\Orcad\Layout\library\DIN.llb
+Fri Jul 11 22:56:09 Loaded file C:\Program Files\Orcad\Layout\library\DIP100B.llb
+Fri Jul 11 22:56:09 Loaded file C:\Program Files\Orcad\Layout\library\DIP100T.llb
+Fri Jul 11 22:56:09 Loaded file C:\Program Files\Orcad\Layout\library\DSUBT.llb
+Fri Jul 11 22:56:09 Loaded file C:\Program Files\Orcad\Layout\library\DSUBT_HD.LLB
+Fri Jul 11 22:56:09 Loaded file C:\Program Files\Orcad\Layout\library\ECON100T.llb
+Fri Jul 11 22:56:09 Loaded file C:\Program Files\Orcad\Layout\library\FBUS.llb
+Fri Jul 11 22:56:09 Loaded file C:\Program Files\Orcad\Layout\library\ISA.llb
+Fri Jul 11 22:56:09 Loaded file C:\Program Files\Orcad\Layout\library\JUMPER.LLB
+Fri Jul 11 22:56:09 Loaded file C:\Program Files\Orcad\Layout\library\LAYOUT.llb
+Fri Jul 11 22:56:09 Loaded file C:\Program Files\Orcad\Layout\library\LCON100T.llb
+Fri Jul 11 22:56:09 Loaded file C:\Program Files\Orcad\Layout\library\PC104.llb
+Fri Jul 11 22:56:09 Loaded file C:\Program Files\Orcad\Layout\library\PCI.llb
+Fri Jul 11 22:56:09 Loaded file C:\Program Files\Orcad\Layout\library\PCON100T.llb
+Fri Jul 11 22:56:09 Loaded file C:\Program Files\Orcad\Layout\library\PCON156T.llb
+Fri Jul 11 22:56:09 Loaded file C:\Program Files\Orcad\Layout\library\PGA.llb
+Fri Jul 11 22:56:09 Loaded file C:\Program Files\Orcad\Layout\library\PLCC.llb
+Fri Jul 11 22:56:09 Loaded file C:\Program Files\Orcad\Layout\library\QUAD.llb
+Fri Jul 11 22:56:09 Loaded file C:\Program Files\Orcad\Layout\library\QUADB.llb
+Fri Jul 11 22:56:09 Loaded file C:\Program Files\Orcad\Layout\library\RELAY.llb
+Fri Jul 11 22:56:09 Loaded file C:\Program Files\Orcad\Layout\library\RF.llb
+Fri Jul 11 22:56:09 Loaded file C:\Program Files\Orcad\Layout\library\SBUS.llb
+Fri Jul 11 22:56:09 Loaded file C:\Program Files\Orcad\Layout\library\SIMM050F.llb
+Fri Jul 11 22:56:09 Loaded file C:\Program Files\Orcad\Layout\library\SIMM050T.llb
+Fri Jul 11 22:56:09 Loaded file C:\Program Files\Orcad\Layout\library\SIMM100F.llb
+Fri Jul 11 22:56:09 Loaded file C:\Program Files\Orcad\Layout\library\SIMM100T.llb
+Fri Jul 11 22:56:09 Loaded file C:\Program Files\Orcad\Layout\library\SIP.llb
+Fri Jul 11 22:56:09 Loaded file C:\Program Files\Orcad\Layout\library\SM.llb
+Fri Jul 11 22:56:09 Loaded file C:\Program Files\Orcad\Layout\library\SOG.llb
+Fri Jul 11 22:56:09 Loaded file C:\Program Files\Orcad\Layout\library\SOJ.llb
+Fri Jul 11 22:56:09 Loaded file C:\Program Files\Orcad\Layout\library\STIFF.llb
+Fri Jul 11 22:56:09 Loaded file C:\Program Files\Orcad\Layout\library\TELE.llb
+Fri Jul 11 22:56:09 Loaded file C:\Program Files\Orcad\Layout\library\TM_AXIAL.llb
+Fri Jul 11 22:56:10 Loaded file C:\Program Files\Orcad\Layout\library\TM_CAP_P.llb
+Fri Jul 11 22:56:10 Loaded file C:\Program Files\Orcad\Layout\library\TM_CYLND.llb
+Fri Jul 11 22:56:10 Loaded file C:\Program Files\Orcad\Layout\library\TM_DIODE.llb
+Fri Jul 11 22:56:10 Loaded file C:\Program Files\Orcad\Layout\library\TM_DISC.llb
+Fri Jul 11 22:56:10 Loaded file C:\Program Files\Orcad\Layout\library\TM_RAD.llb
+Fri Jul 11 22:56:10 Loaded file C:\Program Files\Orcad\Layout\library\TO.llb
+Fri Jul 11 22:56:10 Loaded file C:\Program Files\Orcad\Layout\library\TRAINING.LLB
+Fri Jul 11 22:56:10 Loaded file C:\Program Files\Orcad\Layout\library\VRES.llb
+Fri Jul 11 22:56:10 Loaded file C:\Program Files\Orcad\Layout\library\WCON100T.llb
+Fri Jul 11 22:56:10 Loaded file C:\Program Files\Orcad\Layout\library\XT.llb
+Fri Jul 11 22:56:10 Loaded file C:\Program Files\Orcad\Layout\library\ZIGZAG.llb
+Fri Jul 11 22:56:10 Saved as file D:\PROJECTS\VI XU LY\AVR\LED CUBE\5X5X5\MACH ORCAD\MAIN\555.MAX
+Fri Jul 11 22:56:11 Loaded file D:\PROJECTS\VI XU LY\AVR\LED CUBE\5X5X5\MACH ORCAD\MAIN\555.MAX
+Fri Jul 11 23:00:10 Saved as file ~undo.max
+Fri Jul 11 23:01:07 Saved as file D:\PROJECTS\VI XU LY\AVR\LED CUBE\5X5X5\MACH ORCAD\MAIN\555_DUNG.MAX
+Fri Jul 11 23:46:33 Saved as file D:\PROJECTS\VI XU LY\AVR\LED CUBE\5X5X5\MACH ORCAD\MAIN\555.MAX
+Fri Jul 11 23:47:07 Saved as file D:\PROJECTS\VI XU LY\AVR\LED CUBE\5X5X5\MACH ORCAD\MAIN\555_DUNG.MAX
+Fri Jul 11 23:47:24 Saved as file ~undo.max
+Fri Jul 11 23:48:46 Saved as file D:\PROJECTS\VI XU LY\AVR\LED CUBE\5X5X5\MACH ORCAD\MAIN\555_DUNG.MAX
+Sun Nov 09 12:33:04 Saved as file D:\PROJECTS\VI XU LY\AVR\LED CUBE\5X5X5\MACH ORCAD\MAIN\555_DUNG.MAX
